@@ -6,8 +6,8 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 const rootDir = path.dirname(fileURLToPath(import.meta.url))
 
-/** GitHub Pages project site: https://devnasir23.github.io/biofloc-pathshala/ */
-const BASE = '/biofloc-pathshala/'
+/** GitHub Pages project site: https://devnasir23.github.io/bioflock-pathshala/ */
+const BASE = '/bioflock-pathshala/'
 
 export default defineConfig({
   base: BASE,

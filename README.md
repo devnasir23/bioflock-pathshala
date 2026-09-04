@@ -50,14 +50,14 @@ src/
 
 ## Publish on GitHub Pages
 
-Site will be: **https://devnasir23.github.io/biofloc-pathshala/**
+Site will be: **https://devnasir23.github.io/bioflock-pathshala/**
 
 ### One-time setup
 
 1. Push this repo to GitHub (`master` or `main`).
 2. Repo → **Settings → Pages** → Build and deployment → Source: **Deploy from a branch**
-3. Branch: **`gh-pages`** / folder **`/docs`** → Save  
-   *(Deploy publishes into the `docs/` folder on `gh-pages`.)*
+3. Branch: **`gh-pages`** / folder **`/(root)`** → Save  
+   *(If Save is grey on `/(root)`, it’s already correct — do not pick `/docs`.)*
 
 ### Every time you want to update the live site
 
