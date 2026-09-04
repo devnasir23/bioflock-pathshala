@@ -1,0 +1,97 @@
+:root {
+  --bp-page: #ffffff;
+  --bp-card: #ffffff;
+  --bp-soft: #f4f8f8;
+  --bp-text: #2a3b42;
+  --bp-head: #0b3d4a;
+  --bp-muted: #5f5f5f;
+  --bp-muted2: #42575f;
+  --bp-muted3: #6c808a;
+  --bp-line: #e3edee;
+  --bp-line2: #dde7e8;
+  --bp-sidetext: #425963;
+  --bp-sidehover: #eaf2f3;
+  --bp-deep: #0b4650;
+  --bp-deepline: #2c6e78;
+  --bp-ondeep: #cfe6e9;
+  --bp-ondeep2: #a9cdd2;
+  --bp-amberbg: #fdf6e9;
+  --bp-redbg: #fdf2f0;
+  --bp-redtext: #8c2a1f;
+  --bp-teal: #0f7f8c;
+  --bp-amber: #e0932b;
+  --bp-red: #c0392b;
+  --bp-amberlt: #f6c453;
+  --bp-onred: #ffffff;
+  --bp-green: #2f9e64;
+  --bp-green-text: #1e7a4a;
+  --bp-amber-text: #8f5e12;
+  --bp-onaccent: #ffffff;
+  --bp-scroll: #c6d7d9;
+  --bp-violet: #6c4a9c;
+  --bp-violet-text: #4e3175;
+  --bp-violetbg: #f6f3fb;
+  --bp-onviolet: #ffffff;
+
+  --bp-sidebar-w: min(322px, 84vw);
+  --bp-topbar-h: 56px;
+  --bp-reading: 18px;
+  --bp-content-max: 780px;
+}
+
+:root[data-bp-theme='dark'] {
+  --bp-page: #12181b;
+  --bp-card: #182226;
+  --bp-soft: #161f23;
+  --bp-text: #c2d0d4;
+  --bp-head: #e9f3f4;
+  --bp-muted: #8fa2a8;
+  --bp-muted2: #a6babf;
+  --bp-muted3: #7d9299;
+  --bp-line: #25333a;
+  --bp-line2: #2f3f47;
+  --bp-sidetext: #a6b9bf;
+  --bp-sidehover: #1e2b31;
+  --bp-deep: #0d3a43;
+  --bp-deepline: #2c6e78;
+  --bp-ondeep: #cfe6e9;
+  --bp-ondeep2: #9dc3c9;
+  --bp-amberbg: #241d10;
+  --bp-redbg: #2a1714;
+  --bp-redtext: #f0a294;
+  --bp-teal: #37b4c2;
+  --bp-amber: #eda943;
+  --bp-red: #e0614f;
+  --bp-amberlt: #f6c453;
+  --bp-onred: #0a1418;
+  --bp-green: #47c185;
+  --bp-green-text: #47c185;
+  --bp-amber-text: #eda943;
+  --bp-onaccent: #0f1a1e;
+  --bp-scroll: #31434b;
+  --bp-violet: #a78bd9;
+  --bp-violet-text: #c3aeea;
+  --bp-violetbg: #1f1a2b;
+  --bp-onviolet: #0a1418;
+}
+
+[data-accent='teal'] {
+  --bp-accent: var(--bp-teal);
+  --bp-accent-text: var(--bp-teal);
+}
+[data-accent='green'] {
+  --bp-accent: var(--bp-green);
+  --bp-accent-text: var(--bp-green-text);
+}
+[data-accent='amber'] {
+  --bp-accent: var(--bp-amber);
+  --bp-accent-text: var(--bp-amber-text);
+}
+[data-accent='red'] {
+  --bp-accent: var(--bp-red);
+  --bp-accent-text: var(--bp-redtext);
+}
+[data-accent='violet'] {
+  --bp-accent: var(--bp-violet);
+  --bp-accent-text: var(--bp-violet-text);
+}

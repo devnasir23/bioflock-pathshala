@@ -1,0 +1,60 @@
+@import './tokens.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Noto Sans Bengali', system-ui, sans-serif;
+  background: var(--bp-page);
+  color: var(--bp-text);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.75;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: var(--bp-teal);
+  text-decoration: none;
+  border-bottom: 1px solid var(--bp-line2);
+}
+
+a:hover {
+  color: var(--bp-head);
+  border-bottom-color: var(--bp-head);
+}
+
+::selection {
+  background: #f6c453;
+  color: var(--bp-head);
+}
+
+:focus-visible {
+  outline: 2px solid var(--bp-amber);
+  outline-offset: 2px;
+}
+
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bp-scroll);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}

@@ -1,0 +1,202 @@
+.page {
+  padding-bottom: 64px;
+}
+
+.hero {
+  background: var(--bp-deep);
+  color: var(--bp-ondeep);
+  text-align: center;
+  padding: 56px 24px 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  color: var(--bp-amberlt);
+  font-weight: 600;
+}
+
+.title {
+  margin: 4px 0 0;
+  font-size: clamp(1.9rem, 5vw, 2.6rem);
+  color: #ffffff;
+  line-height: 1.25;
+}
+
+.subtitle {
+  margin: 0;
+  max-width: 520px;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--bp-ondeep);
+}
+
+.scope {
+  margin: 0;
+  max-width: 480px;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--bp-ondeep2);
+}
+
+.author {
+  margin: 8px 0 0;
+  font-size: 14px;
+  color: var(--bp-amberlt);
+}
+
+.cta {
+  margin-top: 12px;
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 22px;
+  background: var(--bp-amberlt);
+  color: #0b3d4a;
+  font-weight: 700;
+  border: none;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.cta:hover {
+  color: #0b3d4a;
+  filter: brightness(1.05);
+  border-bottom: none;
+}
+
+.section {
+  max-width: var(--bp-content-max);
+  margin: 0 auto;
+  padding: 36px 20px 0;
+}
+
+@media (min-width: 1000px) {
+  .section {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+.section h2 {
+  margin: 0 0 16px;
+  font-size: 1.35rem;
+  color: var(--bp-head);
+}
+
+.section p {
+  margin: 0 0 14px;
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 10px;
+}
+
+.list li {
+  padding: 14px 16px;
+  background: var(--bp-soft);
+  border-left: 3px solid var(--bp-teal);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 12px;
+}
+
+.steps li {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  font-size: 16.5px;
+  line-height: 1.75;
+}
+
+.stepNum {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  background: var(--bp-teal);
+  color: var(--bp-onaccent);
+  font-size: 13px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2px;
+}
+
+.tocPart {
+  margin-bottom: 20px;
+  border: 1px solid var(--bp-line);
+  background: var(--bp-card);
+}
+
+.tocPartHead {
+  background: var(--bp-accent, var(--bp-teal));
+  color: var(--bp-onaccent);
+  padding: 9px 16px;
+  font-size: 13.5px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.tocItem {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--bp-line);
+  border-bottom-color: var(--bp-line);
+  text-decoration: none;
+  color: inherit;
+}
+
+.tocItem:last-child {
+  border-bottom: none;
+}
+
+.tocItem:hover {
+  background: var(--bp-soft);
+  color: inherit;
+}
+
+.tocNum {
+  flex: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--bp-accent, var(--bp-teal));
+  min-width: 26px;
+  padding-top: 2px;
+}
+
+.tocItem strong {
+  display: block;
+  color: var(--bp-head);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.tocDesc {
+  display: block;
+  margin-top: 4px;
+  font-size: 13.5px;
+  color: var(--bp-muted3);
+  line-height: 1.55;
+  font-weight: 400;
+}
