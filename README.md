@@ -43,10 +43,30 @@ src/
 
 ## Routes
 
-| Path | Page |
+| Path (hash) | Page |
 |------|------|
-| `/` | Cover / ভূমিকা |
-| `/adhyay/:slug` | Chapter |
+| `/#/` | Cover / ভূমিকা |
+| `/#/adhyay/:slug` | Chapter |
+
+## Publish on GitHub Pages
+
+Site will be: **https://devnasir23.github.io/biofloc-pathshala/**
+
+### One-time setup
+
+1. Push this repo to GitHub (`master` or `main`).
+2. Repo → **Settings → Pages** → Build and deployment → Source: **Deploy from a branch**
+3. Branch: **`gh-pages`** / folder **`/` (root)** → Save  
+   *(The `gh-pages` branch is created automatically by the deploy command below.)*
+
+### Every time you want to update the live site
+
+```bash
+git-use devnasir23   # if needed
+npm run deploy
+```
+
+That builds the app and pushes `dist/` to the `gh-pages` branch.
 
 ## Notes
 
@@ -55,5 +75,6 @@ src/
   - Icons: `public/icons/`
   - Manifest + SW generated on `npm run build`
   - Test install: `npm run build && npm run preview` (HTTPS or localhost)
+- Vite `base` is `/biofloc-pathshala/` for GitHub Pages
 - Design tokens: `src/styles/tokens.css` (`--bp-*`)
 - Chapter bodies use the same `--bp-*` CSS variables, so dark mode works automatically

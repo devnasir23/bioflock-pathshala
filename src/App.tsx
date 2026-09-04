@@ -1,13 +1,14 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { HashRouter, Navigate, Route, Routes } from 'react-router-dom'
 import { AppShell } from '@/components/layout/AppShell'
 import { ThemeProvider } from '@/hooks/useTheme'
 import { ChapterPage } from '@/pages/ChapterPage'
 import { CoverPage } from '@/pages/CoverPage'
 
+/** HashRouter = reliable deep links on GitHub Pages (no server rewrite needed). */
 export default function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter>
+      <HashRouter>
         <AppShell>
           <Routes>
             <Route path="/" element={<CoverPage />} />
@@ -15,7 +16,7 @@ export default function App() {
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </AppShell>
-      </BrowserRouter>
+      </HashRouter>
     </ThemeProvider>
   )
 }

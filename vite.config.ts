@@ -6,7 +6,11 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 const rootDir = path.dirname(fileURLToPath(import.meta.url))
 
+/** GitHub Pages project site: https://devnasir23.github.io/biofloc-pathshala/ */
+const BASE = '/biofloc-pathshala/'
+
 export default defineConfig({
+  base: BASE,
   plugins: [
     react(),
     VitePWA({
@@ -29,8 +33,9 @@ export default defineConfig({
         background_color: '#0B4650',
         display: 'standalone',
         orientation: 'portrait-primary',
-        start_url: '/',
-        scope: '/',
+        start_url: BASE,
+        scope: BASE,
+        id: BASE,
         categories: ['education', 'books'],
         icons: [
           {
@@ -55,7 +60,7 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,ico,webp,woff2}'],
-        navigateFallback: '/index.html',
+        navigateFallback: `${BASE}index.html`,
         navigateFallbackDenylist: [/^\/api\//],
         runtimeCaching: [
           {
