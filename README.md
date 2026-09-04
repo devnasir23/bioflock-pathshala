@@ -56,8 +56,8 @@ Site will be: **https://devnasir23.github.io/biofloc-pathshala/**
 
 1. Push this repo to GitHub (`master` or `main`).
 2. Repo → **Settings → Pages** → Build and deployment → Source: **Deploy from a branch**
-3. Branch: **`gh-pages`** / folder **`/` (root)** → Save  
-   *(The `gh-pages` branch is created automatically by the deploy command below.)*
+3. Branch: **`gh-pages`** / folder **`/docs`** → Save  
+   *(Deploy publishes into the `docs/` folder on `gh-pages`.)*
 
 ### Every time you want to update the live site
 
