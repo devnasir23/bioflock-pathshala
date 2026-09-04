@@ -22,7 +22,7 @@ export function Sidebar({ open, onNavigate }: SidebarProps) {
         <BrandMark />
         <span className={styles.brandText}>
           <span className={styles.brandTitle}>বায়োফ্লক পাঠশালা</span>
-          <span className={styles.brandTag}>একটি হাতে-কলমে শেখার বই</span>
+          <span className={styles.brandTag}>একটি বিস্তারিত জ্ঞানভিত্তিক গাইড</span>
         </span>
       </NavLink>
 

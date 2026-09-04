@@ -26,11 +26,11 @@ export function CoverPage() {
   return (
     <div className={styles.page}>
       <section className={styles.hero}>
-        <p className={styles.tagline}>একটি হাতে-কলমে শেখার বই</p>
+        <p className={styles.tagline}>একটি বিস্তারিত জ্ঞানভিত্তিক গাইড</p>
         <BrandMark size={88} />
         <h1 className={styles.title}>বায়োফ্লক পাঠশালা</h1>
         <p className={styles.subtitle}>
-          বাস্তব প্রজেক্ট দিয়ে হাতে-কলমে মাছ চাষ শেখার সম্পূর্ণ গাইড
+          বাস্তব প্রজেক্ট ও সঠিক হিসাব দিয়ে বায়োফ্লক মাছ চাষ গভীরভাবে বোঝার গাইড
         </p>
         <p className={styles.scope}>
           ৫০০ লিটারের ঘরোয়া ট্যাংক থেকে শুরু করে ৫০,০০০+ লিটারের বাণিজ্যিক
