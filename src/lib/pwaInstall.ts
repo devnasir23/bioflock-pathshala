@@ -45,6 +45,27 @@ export function isIosDevice() {
   return /iphone|ipad|ipod/i.test(navigator.userAgent)
 }
 
+type NavigatorWithRelatedApps = Navigator & {
+  getInstalledRelatedApps?: () => Promise<Array<{ platform: string }>>
+}
+
+/**
+ * Detects an already-installed copy of this same PWA even while it's being
+ * viewed in a regular browser tab (display-mode alone can't tell us that).
+ * Chromium-only; relies on the self-referencing `related_applications` entry
+ * in the web manifest. Falls back to false everywhere else.
+ */
+export async function isAppAlreadyInstalled() {
+  const nav = navigator as NavigatorWithRelatedApps
+  if (typeof nav.getInstalledRelatedApps !== 'function') return false
+  try {
+    const apps = await nav.getInstalledRelatedApps()
+    return apps.length > 0
+  } catch {
+    return false
+  }
+}
+
 export function captureInstallPromptEvents() {
   if (typeof window === 'undefined') return
 

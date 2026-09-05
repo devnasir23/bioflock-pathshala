@@ -10,6 +10,7 @@ import {
 import {
   clearDeferredInstallPrompt,
   getDeferredInstallPrompt,
+  isAppAlreadyInstalled,
   isIosDevice,
   isStandaloneDisplay,
   subscribeInstallPrompt,
@@ -75,6 +76,18 @@ export function PwaInstallProvider({ children }: { children: ReactNode }) {
     const mq = window.matchMedia('(display-mode: standalone)')
     mq.addEventListener('change', syncInstalled)
     return () => mq.removeEventListener('change', syncInstalled)
+  }, [])
+
+  // Catches the case where the app is already installed but is currently
+  // being viewed in a normal browser tab (display-mode check alone misses this).
+  useEffect(() => {
+    let cancelled = false
+    void isAppAlreadyInstalled().then((yes) => {
+      if (yes && !cancelled) setInstalled(true)
+    })
+    return () => {
+      cancelled = true
+    }
   }, [])
 
   useEffect(() => {

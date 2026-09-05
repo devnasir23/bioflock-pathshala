@@ -38,6 +38,9 @@ export default defineConfig({
         scope: BASE,
         id: BASE,
         prefer_related_applications: false,
+        related_applications: [
+          { platform: 'webapp', url: `${BASE}manifest.webmanifest` },
+        ],
         categories: ['education', 'books'],
         icons: [
           {
