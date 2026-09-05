@@ -136,6 +136,20 @@
   color: var(--bp-head);
 }
 
+.hint {
+  margin: 0;
+  padding: 14px 16px;
+  background: var(--bp-soft);
+  border-top: 3px solid var(--bp-teal);
+  color: var(--bp-text);
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.hint strong {
+  color: var(--bp-head);
+}
+
 @keyframes slideUp {
   from {
     transform: translateY(110%);

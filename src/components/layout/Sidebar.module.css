@@ -88,6 +88,29 @@
   border-color: var(--bp-amberlt);
 }
 
+.installRow {
+  padding: 10px 12px 12px;
+  background: var(--bp-deep);
+  border-top: 1px solid var(--bp-deepline);
+}
+
+.installBtn {
+  width: 100%;
+  min-height: 40px;
+  padding: 8px 12px;
+  background: rgba(246, 196, 83, 0.14);
+  border: 1px solid var(--bp-amberlt);
+  color: var(--bp-amberlt);
+  font: inherit;
+  font-size: 13.5px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.installBtn:hover {
+  background: rgba(246, 196, 83, 0.24);
+}
+
 .nav {
   flex: 1;
   overflow-y: auto;

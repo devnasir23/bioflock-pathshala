@@ -3,12 +3,18 @@ import { usePwaInstall } from '@/hooks/usePwaInstall'
 import styles from './InstallPrompt.module.css'
 
 export function InstallPrompt() {
-  const { open, mode, installing, install, dismiss } = usePwaInstall()
+  const { open, mode, installing, canNativeInstall, install, dismiss } =
+    usePwaInstall()
 
   if (!open || !mode) return null
 
   return (
-    <div className={styles.root} role="dialog" aria-modal="true" aria-labelledby="bp-install-title">
+    <div
+      className={styles.root}
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="bp-install-title"
+    >
       <button
         type="button"
         className={styles.backdrop}
@@ -29,7 +35,24 @@ export function InstallPrompt() {
           </div>
         </div>
 
-        {mode === 'chrome' ? (
+        {mode === 'ios' ? (
+          <div className={styles.ios}>
+            <ol className={styles.steps}>
+              <li>
+                নিচের <strong>Share</strong> (□↑) বাটনে ট্যাপ করুন
+              </li>
+              <li>
+                <strong>Add to Home Screen</strong> বেছে নিন
+              </li>
+              <li>
+                <strong>Add</strong> চাপুন
+              </li>
+            </ol>
+            <button type="button" className={styles.secondary} onClick={dismiss}>
+              বুঝেছি
+            </button>
+          </div>
+        ) : canNativeInstall ? (
           <div className={styles.actions}>
             <button
               type="button"
@@ -45,17 +68,10 @@ export function InstallPrompt() {
           </div>
         ) : (
           <div className={styles.ios}>
-            <ol className={styles.steps}>
-              <li>
-                নিচের <strong>Share</strong> (□↑) বাটনে ট্যাপ করুন
-              </li>
-              <li>
-                <strong>Add to Home Screen</strong> বেছে নিন
-              </li>
-              <li>
-                <strong>Add</strong> চাপুন
-              </li>
-            </ol>
+            <p className={styles.hint}>
+              ব্রাউজার মেনু (⋮) খুলে <strong>Install app</strong> /{' '}
+              <strong>Add to Home screen</strong> বেছে নিন।
+            </p>
             <button type="button" className={styles.secondary} onClick={dismiss}>
               বুঝেছি
             </button>
