@@ -6,7 +6,7 @@ type BrandMarkProps = {
 export function BrandMark({ size = 38, className }: BrandMarkProps) {
   return (
     <img
-      src={`${import.meta.env.BASE_URL}logo.png`}
+      src={`${import.meta.env.BASE_URL}bioflock-pathshala-logo.png`}
       width={size}
       height={size}
       alt="বায়োফ্লক পাঠশালা লোগো"
