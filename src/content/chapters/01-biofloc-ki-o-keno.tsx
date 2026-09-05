@@ -5,7 +5,7 @@ import { getChapter, getPartForChapter } from '@/content/catalog'
 
 const SLUG = '01-biofloc-ki-o-keno'
 
-const LEAD = `বিজ্ঞানের একটা ছোট বিপ্লব — একদম শুরু থেকে বোঝা। এই অধ্যায় পড়া শেষে আপনি জানবেন বায়োফ্লক আসলে কী, ট্যাংকের ভেতরে কী ঘটে, আর এটা আপনার জন্য ঠিক কি না।`
+const LEAD = `বিজ্ঞানের একটি ছোট বিপ্লব — একেবারে শুরু থেকে বোঝা। এই অধ্যায় পড়া শেষে আপনি জানতে পারবেন বায়োফ্লক আসলে কী, ট্যাংকের ভেতরে কী ঘটে, এবং এটি আপনার জন্য উপযুক্ত কি না।`
 
 /** অধ্যায় 01 — content: `./01-biofloc-ki-o-keno.body.html` */
 export default function Chapter() {

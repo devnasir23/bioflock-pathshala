@@ -39,7 +39,7 @@ export const PARTS: PartMeta[] = [
         id: 1,
         slug: '01-biofloc-ki-o-keno',
         title: 'বায়োফ্লক কী ও কেন',
-        desc: 'বিজ্ঞানের একটা ছোট বিপ্লব, একদম শুরু থেকে বোঝা',
+        desc: 'বিজ্ঞানের একটি ছোট বিপ্লব, একেবারে শুরু থেকে বোঝা',
         status: 'ready',
       },
       {
