@@ -1,6 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import { BrandMark } from '@/components/brand/BrandMark'
 import { PARTS } from '@/content/catalog'
+import { usePwaInstall } from '@/hooks/usePwaInstall'
 import { useTheme } from '@/hooks/useTheme'
 import { chapterNum } from '@/lib/bn'
 import styles from './Sidebar.module.css'
@@ -12,6 +13,7 @@ type SidebarProps = {
 
 export function Sidebar({ open, onNavigate }: SidebarProps) {
   const { isDark, toggleTheme } = useTheme()
+  const { showInstallButton, openSheet } = usePwaInstall()
 
   return (
     <aside
@@ -33,6 +35,21 @@ export function Sidebar({ open, onNavigate }: SidebarProps) {
           <span>{isDark ? 'দিন' : 'রাত'}</span>
         </button>
       </div>
+
+      {showInstallButton ? (
+        <div className={styles.installRow}>
+          <button
+            type="button"
+            className={styles.installBtn}
+            onClick={() => {
+              openSheet()
+              onNavigate()
+            }}
+          >
+            অ্যাপ ইনস্টল করুন
+          </button>
+        </div>
+      ) : null}
 
       <nav className={styles.nav}>
         <NavLink
