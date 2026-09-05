@@ -1,8 +1,9 @@
-import { useEffect, useState, type ReactNode } from 'react'
-import { useLocation } from 'react-router-dom'
 import { Sidebar } from '@/components/layout/Sidebar'
+import { InstallPrompt } from '@/components/pwa/InstallPrompt'
 import { useMediaQuery } from '@/hooks/useMediaQuery'
 import { useTheme } from '@/hooks/useTheme'
+import { useEffect, useState, type ReactNode } from 'react'
+import { useLocation } from 'react-router-dom'
 import styles from './AppShell.module.css'
 
 export function AppShell({ children }: { children: ReactNode }) {
@@ -58,6 +59,7 @@ export function AppShell({ children }: { children: ReactNode }) {
       <Sidebar open={isDesktop || navOpen} onNavigate={() => setNavOpen(false)} />
 
       <main className={styles.main}>{children}</main>
+      <InstallPrompt />
     </div>
   )
 }

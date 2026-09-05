@@ -1,0 +1,162 @@
+.root {
+  position: fixed;
+  inset: 0;
+  z-index: 120;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.backdrop {
+  position: absolute;
+  inset: 0;
+  border: none;
+  padding: 0;
+  margin: 0;
+  background: rgba(11, 70, 80, 0.45);
+  cursor: pointer;
+  pointer-events: auto;
+  animation: fadeIn 0.22s ease;
+}
+
+.sheet {
+  position: relative;
+  width: min(100%, 480px);
+  margin: 0;
+  padding: 10px 20px calc(18px + env(safe-area-inset-bottom, 0px));
+  background: var(--bp-card);
+  color: var(--bp-text);
+  border: 1px solid var(--bp-line2);
+  border-bottom: none;
+  border-radius: 18px 18px 0 0;
+  box-shadow: 0 -12px 40px rgba(11, 61, 74, 0.18);
+  pointer-events: auto;
+  animation: slideUp 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.handle {
+  width: 42px;
+  height: 4px;
+  margin: 2px auto 14px;
+  border-radius: 999px;
+  background: var(--bp-line2);
+}
+
+.header {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  margin-bottom: 18px;
+}
+
+.copy {
+  min-width: 0;
+  flex: 1;
+}
+
+.title {
+  margin: 2px 0 6px;
+  font-size: 1.15rem;
+  line-height: 1.35;
+  color: var(--bp-head);
+  font-weight: 700;
+}
+
+.sub {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--bp-muted2);
+}
+
+.actions {
+  display: grid;
+  gap: 8px;
+}
+
+.primary,
+.secondary {
+  width: 100%;
+  min-height: 46px;
+  border: none;
+  font: inherit;
+  font-size: 15.5px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 12px 16px;
+}
+
+.primary {
+  background: var(--bp-deep);
+  color: #ffffff;
+}
+
+.primary:disabled {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.primary:hover:not(:disabled) {
+  filter: brightness(1.06);
+}
+
+.secondary {
+  background: transparent;
+  color: var(--bp-muted2);
+  font-weight: 600;
+  border: 1px solid var(--bp-line2);
+}
+
+.secondary:hover {
+  background: var(--bp-soft);
+  color: var(--bp-head);
+}
+
+.ios {
+  display: grid;
+  gap: 14px;
+}
+
+.steps {
+  margin: 0;
+  padding: 14px 16px 14px 34px;
+  background: var(--bp-soft);
+  border-top: 3px solid var(--bp-teal);
+  color: var(--bp-text);
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.steps li + li {
+  margin-top: 6px;
+}
+
+.steps strong {
+  color: var(--bp-head);
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(110%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (min-width: 1000px) {
+  /* Desktop Chrome can still install; keep sheet centered bottom. */
+  .sheet {
+    margin-bottom: 0;
+  }
+}

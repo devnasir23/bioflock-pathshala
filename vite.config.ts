@@ -37,6 +37,7 @@ export default defineConfig({
         start_url: BASE,
         scope: BASE,
         id: BASE,
+        prefer_related_applications: false,
         categories: ['education', 'books'],
         icons: [
           {
