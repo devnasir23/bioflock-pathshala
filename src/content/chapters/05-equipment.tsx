@@ -5,7 +5,7 @@ import { getChapter, getPartForChapter } from '@/content/catalog'
 
 const SLUG = '05-equipment'
 
-const LEAD = `এয়ার পাম্প থেকে টেস্ট কিট — কোনটা <em>অবশ্যই</em> লাগবে, কোনটা পরে, আর কোনটা দোকানদার জোর করে বেচে দেন। সাথে তিনটা আকারের পূর্ণ তালিকা ও আন্দাজি খরচ।`
+const LEAD = `এয়ার পাম্প থেকে টেস্ট কিট — কোনটা <em>অবশ্যই</em> লাগবে, কোনটা পরে, আর কোনটা দোকানদার জোর করে বেচে দেন। সাথে তিনটা আকারের পূর্ণ তালিকা ও আনুমানিক খরচ।`
 
 /** অধ্যায় 05 — content: `./05-equipment.body.html` */
 export default function Chapter() {
