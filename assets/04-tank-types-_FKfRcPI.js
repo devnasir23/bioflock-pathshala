@@ -1,0 +1,241 @@
+import{i as e,n as t,r as n}from"./index-Sfibn48Y.js";import{n as r,t as i}from"./ChapterShell-HFwY9Orh.js";var a=`<div data-block="1" style="background:var(--bp-soft);border-top:3px solid var(--bp-green);padding:26px 30px 28px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-green-text);margin-bottom:10px">আগে এটা মাথায় ঢোকান</div>
+            <p style="margin:0;font-size:1.1em;font-weight:600;color:var(--bp-head);line-height:1.75">১ লিটার পানির ওজন ১ কেজি। ৫০০ লিটার মানে আধা টন। ১০,০০০ লিটার মানে <strong>১০ টন</strong> — একটা ভরা ট্রাকের সমান, এক জায়গায় দাঁড়িয়ে। ট্যাংক ফাটে না, <strong>নিচের মাটি বসে যায়</strong>।</p>
+          </div>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">উপাদানের আগে আকার — গোল ট্যাংক কেন সেরা</h2>
+            </div>
+            <p style="margin:0 0 18px">অনেকে প্রথমেই জিজ্ঞেস করেন "তেরপল না সিমেন্ট?" কিন্তু আসল প্রশ্ন আগে আসে — <strong style="color:var(--bp-head)">গোল না চারকোনা?</strong> এবং উত্তরটা প্রায় সবসময় গোল।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">পানি ঘুরতে পারে</strong><span style="font-size:.95em;color:var(--bp-muted2)">বাতাসের বুদবুদ পানিকে বৃত্তাকারে ঘোরায়। এতে ফ্লক ভেসে থাকে আর ময়লা কেন্দ্রে গিয়ে জমা হয় — সেখান থেকে সরানো সহজ।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">মরা কোণা থাকে না</strong><span style="font-size:.95em;color:var(--bp-muted2)">চারকোনা ট্যাংকের কোণায় পানি ঘোরে না। সেখানে ময়লা জমে পচে, অক্সিজেনহীন হয়ে যায়, আর রোগজীবাণুর আস্তানা তৈরি হয়।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">চাপ সমানভাবে ছড়ায়</strong><span style="font-size:.95em;color:var(--bp-muted2)">গোল দেয়ালে পানির চাপ চারদিকে সমান। চারকোনা ট্যাংকের সোজা দেয়াল মাঝখানে ফুলে ওঠে ও ফেটে যাওয়ার ঝুঁকি বেশি।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কম উপাদানে বেশি পানি</strong><span style="font-size:.95em;color:var(--bp-muted2)">একই দৈর্ঘ্যের দেয়াল দিয়ে গোল আকৃতিতে সবচেয়ে বেশি জায়গা ঘেরা যায় — অর্থাৎ তেরপল বা ইটের খরচ কম।</span></div>
+            </div>
+            <p style="margin:0;font-size:.93em;color:var(--bp-muted)">ব্যতিক্রম: জায়গা খুব সরু হলে (যেমন লম্বা বারান্দা) চারকোনা ট্যাংক নিতে হতে পারে। তখন কোণাগুলো ভেতর থেকে ঢালু করে দিন এবং কোণার দিকে অতিরিক্ত এয়ার স্টোন রাখুন।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কত গভীর, কত চওড়া</h2>
+            </div>
+            <p style="margin:0 0 18px">নতুনদের একটা সাধারণ ভুল — খুব গভীর ট্যাংক বানানো। গভীর মানেই ভালো নয়।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">পানির গভীরতা ১ থেকে ১.৩ মিটার (৩.৫–৪.৫ ফুট)</strong><span style="font-size:.95em;color:var(--bp-muted2)">এর বেশি হলে তলায় বাতাস পৌঁছাতে বেশি শক্তি লাগে, আর পাম্পের খরচ বাড়ে। কম হলে তাপমাত্রা দ্রুত ওঠানামা করে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ট্যাংকের উচ্চতা পানির চেয়ে ২০–৩০ সেমি বেশি</strong><span style="font-size:.95em;color:var(--bp-muted2)">বৃষ্টির পানি ও ফেনার জন্য জায়গা লাগে। আর কই মাছ লাফায় — কম উচ্চতা মানে সকালে মেঝেতে মাছ কুড়ানো।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ব্যাস : গভীরতা প্রায় ৩:১ থেকে ৪:১</strong><span style="font-size:.95em;color:var(--bp-muted2)">যেমন ১.২ মিটার গভীরতার জন্য ৩.৫–৫ মিটার ব্যাস। এতে পানি ভালো ঘোরে।</span></div>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-green);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:8px">আয়তন হিসাব করার সূত্র</strong>
+              <span style="font-size:.97em">গোল ট্যাংকের লিটার = <strong style="color:var(--bp-head)">৩.১৪ × ব্যাসার্ধ × ব্যাসার্ধ × পানির গভীরতা × ১০০০</strong> (সব মাপ মিটারে)।<br><span style="color:var(--bp-muted2)">উদাহরণ: ২ মিটার ব্যাস (ব্যাসার্ধ ১ মিটার), ১ মিটার পানি → ৩.১৪ × ১ × ১ × ১ × ১০০০ = <strong>৩,১৪০ লিটার</strong>।</span></span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৩</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">চারটা বিকল্প — পাশাপাশি</h2>
+            </div>
+            <div style="overflow-x:auto;margin-bottom:24px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:620px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">বিষয়</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">তেরপল (PVC)</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">IBC ট্যাংক</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">প্লাস্টিক ড্রাম</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">সিমেন্ট</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">সাধারণ আকার</td><td style="padding:11px 14px">১,০০০–৫০,০০০ লি</td><td style="padding:11px 14px">১,০০০ লি</td><td style="padding:11px 14px">২০০–৫০০ লি</td><td style="padding:11px 14px">যেকোনো</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">খরচ</td><td style="padding:11px 14px">মাঝারি</td><td style="padding:11px 14px">কম–মাঝারি</td><td style="padding:11px 14px">সবচেয়ে কম</td><td style="padding:11px 14px">সবচেয়ে বেশি</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">আয়ু</td><td style="padding:11px 14px">৩–৭ বছর</td><td style="padding:11px 14px">৫–৮ বছর</td><td style="padding:11px 14px">৫–১০ বছর</td><td style="padding:11px 14px">২০+ বছর</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">সরানো যায়?</td><td style="padding:11px 14px">হ্যাঁ, ভাঁজ হয়</td><td style="padding:11px 14px">হ্যাঁ</td><td style="padding:11px 14px">হ্যাঁ, সহজে</td><td style="padding:11px 14px;color:var(--bp-redtext)">না</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">সেটআপ সময়</td><td style="padding:11px 14px">১–২ দিন</td><td style="padding:11px 14px">কয়েক ঘণ্টা</td><td style="padding:11px 14px">কয়েক ঘণ্টা</td><td style="padding:11px 14px;color:var(--bp-redtext)">৩–৪ সপ্তাহ</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">মেরামত</td><td style="padding:11px 14px">প্যাচ দেওয়া যায়</td><td style="padding:11px 14px">কঠিন</td><td style="padding:11px 14px">কঠিন</td><td style="padding:11px 14px">প্লাস্টার/এপক্সি</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">তাপ ধরে রাখা</td><td style="padding:11px 14px">কম</td><td style="padding:11px 14px">কম</td><td style="padding:11px 14px">কম</td><td style="padding:11px 14px">ভালো</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">নতুনদের জন্য</td><td style="padding:11px 14px;color:var(--bp-green-text);font-weight:600">খুব ভালো</td><td style="padding:11px 14px;color:var(--bp-green-text);font-weight:600">সেরা শুরু</td><td style="padding:11px 14px">শুধু পরীক্ষার জন্য</td><td style="padding:11px 14px;color:var(--bp-redtext)">না</td></tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green)">
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">তেরপল / PVC ট্যাংক — সবচেয়ে জনপ্রিয়</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">লোহার বা বাঁশের গোল কাঠামোর ভেতরে PVC তেরপলের আস্তরণ। যেকোনো মাপে বানানো যায়, ভাঁজ করে সরানো যায়, ফুটো হলে প্যাচ দেওয়া যায়। বেশিরভাগ বাণিজ্যিক খামার এটাই ব্যবহার করে। <strong style="color:var(--bp-head)">দুর্বলতা:</strong> ইঁদুর ও ধারালো জিনিস। কাঠামোর ভেতরে কোনো তার বা পেরেক বেরিয়ে থাকলে কয়েক মাসে ফুটো হবে।</span>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">IBC ট্যাংক — নতুনদের জন্য সবচেয়ে বুদ্ধিমান শুরু</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">১,০০০ লিটারের HDPE ট্যাংক, বাইরে লোহার খাঁচা ও কাঠের বেস। কলকারখানায় রাসায়নিক আনা-নেওয়ায় ব্যবহার হয়, তাই সেকেন্ড-হ্যান্ড সস্তায় পাওয়া যায়। শক্ত, ফুটো হয় না, খাঁচাই ভার নেয় — আলাদা কাঠামো লাগে না। <strong style="color:var(--bp-redtext)">সতর্কতা:</strong> পুরোনো IBC কিনলে জেনে নিন আগে কী ছিল। কীটনাশক বা রং রাখা ট্যাংক কখনোই নেবেন না — শুধু খাদ্যপণ্য বা সাধারণ রাসায়নিকের ট্যাংক নিন, আর ব্যবহারের আগে কয়েকবার ভালো করে ধুয়ে পানি ভরে ২–৩ দিন রেখে ফেলে দিন।</span>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">প্লাস্টিক ড্রাম — শুধু হাত পাকানোর জন্য</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">২০০–৫০০ লিটারের নীল ড্রাম কেটে ব্যবহার করা হয়। খুব সস্তা, কিন্তু <strong>বাণিজ্যিক চাষের জন্য নয়</strong>। এত অল্প পানিতে তাপমাত্রা ও অ্যামোনিয়া মুহূর্তে বদলায় — একটা ভুলেই সব শেষ। তবে C:N-এর হিসাব শেখা, ফ্লক দেখা ও টেস্ট কিট চালানো অভ্যাস করার জন্য চমৎকার — খরচ মাত্র কয়েক হাজার টাকা।</span>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">সিমেন্ট / RCC ট্যাংক — পরে, প্রথমে নয়</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">সবচেয়ে টেকসই, ২০ বছরের বেশি চলে, তাপমাত্রা স্থির রাখে। কিন্তু খরচ সবচেয়ে বেশি, বানাতে ৩–৪ সপ্তাহ লাগে, আর একবার বানালে <strong>আর সরানো যায় না</strong> — জায়গা ভুল হলে পুরো টাকা জলে। প্রথম চক্রে আপনি নিশ্চিত জানেন না কোথায়, কত বড়, কয়টা ট্যাংক লাগবে। তাই সিমেন্ট বানান দ্বিতীয় বা তৃতীয় বছরে, যখন হিসাব পাকা হয়ে গেছে।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৪</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">GSM — তেরপল কেনার আগে এই সংখ্যাটা দেখুন</h2>
+            </div>
+            <p style="margin:0 0 20px">GSM মানে প্রতি বর্গমিটারে গ্রাম — অর্থাৎ কাপড়টা কত ভারী ও পুরু। যত বেশি GSM, তত মোটা ও টেকসই, তত দাম বেশি। বিক্রেতা "ভালো মাল" বললে বিশ্বাস করবেন না; GSM লিখিতভাবে জিজ্ঞেস করুন।</p>
+            <div style="overflow-x:auto;margin-bottom:20px">
+              <table style="width:100%;border-collapse:collapse;font-size:.95em;min-width:480px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">GSM</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">কোথায় ব্যবহার</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৪৫০–৫৫০</td><td style="padding:12px 16px;color:var(--bp-muted2)">শুধু ছোট নার্সারি ট্যাংক ও অগভীর পানি। মূল চাষের ট্যাংকে নয়।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-green-text)">৬৫০</td><td style="padding:12px 16px;color:var(--bp-muted2)"><strong style="color:var(--bp-head)">সবচেয়ে ব্যবহৃত মান।</strong> ৫ মিটার ব্যাস পর্যন্ত ট্যাংকের জন্য যথেষ্ট। বেশিরভাগ চাষির এটাই নেওয়া উচিত।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৭৫০–৯০০</td><td style="padding:12px 16px;color:var(--bp-muted2)">৬ মিটারের বেশি ব্যাস বা ১.২ মিটারের বেশি গভীরতা — বড় বাণিজ্যিক ট্যাংক।</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:8px">কেনার সময় আরও তিনটা জিনিস দেখুন</strong>
+              <div style="display:grid;gap:10px;font-size:.96em">
+                <span><strong style="color:var(--bp-head)">দুই দিকে কোটিং করা কি?</strong> শুধু এক দিকে কোটিং করা তেরপল দ্রুত নষ্ট হয়। দুই দিকে PVC কোটিং করা মাল ৫ বছরের বেশি চলে।</span>
+                <span><strong style="color:var(--bp-head)">UV স্থিতিশীল কি?</strong> রোদে না রাখলেও বাংলাদেশের আবহাওয়ায় UV সুরক্ষা ছাড়া তেরপল দুই বছরেই ঠুনকো হয়ে যায়।</span>
+                <span><strong style="color:var(--bp-head)">জোড়া কীভাবে দেওয়া?</strong> সেলাই নয় — <strong>তাপ দিয়ে ঝালাই (heat-welded)</strong> করা জোড়া চাই। সেলাইয়ের ফুটো দিয়ে সময়ের সাথে পানি চুইয়ে পড়ে।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৫</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ভিত্তি — যেখানে বেশিরভাগ দুর্ঘটনা ঘটে</h2>
+            </div>
+            <p style="margin:0 0 18px">এই অংশটা কেউ পড়ায় না, অথচ বায়োফ্লকের সবচেয়ে সাধারণ বড় দুর্ঘটনা এখান থেকেই হয়। ট্যাংক নিজে খুব কমই ফাটে — <strong style="color:var(--bp-head)">নিচের মাটি একদিকে বসে যায়</strong>, ট্যাংক কাত হয়, আর কয়েক সেকেন্ডে সব পানি ও মাছ বেরিয়ে যায়।</p>
+            <div style="background:var(--bp-deep);color:#ffffff;padding:26px 30px;margin-bottom:22px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:12px">ওজনের হিসাব</div>
+              <div style="display:grid;gap:10px;font-size:.98em">
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span style="color:var(--bp-ondeep)">৫০০ লিটার</span><strong>০.৫ টন</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span style="color:var(--bp-ondeep)">২,০০০ লিটার</span><strong>২ টন</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span style="color:var(--bp-ondeep)">১০,০০০ লিটার</span><strong style="color:var(--bp-amberlt)">১০ টন</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--bp-deepline);padding-top:12px"><span style="color:var(--bp-ondeep)">৩ মিটার ব্যাসের ১০,০০০ লি ট্যাংক প্রতি বর্গমিটারে চাপ দেয়</span><strong style="color:var(--bp-amberlt)">≈ ১,৪০০ কেজি</strong></div>
+              </div>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-redtext);margin-bottom:6px">ছাদে বড় ট্যাংক বসানোর আগে</strong>
+              <span>সাধারণ বসতবাড়ির ছাদ প্রতি বর্গমিটারে ১৫০–২০০ কেজি ভার ধরে ডিজাইন করা হয়। ১০,০০০ লিটারের ট্যাংক তার চেয়ে <strong>প্রায় সাত গুণ</strong> চাপ দেয়। ছাদে ২,০০০ লিটারের বেশি কিছু বসানোর আগে অবশ্যই একজন সিভিল ইঞ্জিনিয়ারকে দেখান — এটা টাকার প্রশ্ন নয়, প্রাণের প্রশ্ন। ছোট ট্যাংক হলেও কলামের (পিলারের) কাছাকাছি বসান, ছাদের মাঝখানে নয়।</span>
+            </div>
+            <p style="margin:0 0 18px"><strong style="color:var(--bp-head)">মাটিতে বসানোর ঠিক নিয়ম:</strong></p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green)">
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">১</span><span style="font-size:.96em">জায়গার উপরের নরম মাটি ৬ ইঞ্চি তুলে ফেলুন। নতুন ভরাট করা মাটিতে কখনো ট্যাংক বসাবেন না — এক বর্ষাতেই বসে যাবে।</span></div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">২</span><span style="font-size:.96em">ইট-খোয়া বা বালি দিয়ে ভরে ভালো করে দাবিয়ে (compact) নিন। উপরে ২ ইঞ্চি বালির সমান স্তর।</span></div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৩</span><span style="font-size:.96em"><strong style="color:var(--bp-head)">সমতল কি না পানি ঢেলে পরীক্ষা করুন।</strong> একটু পানি ছড়িয়ে দিন — কোনো দিকে গড়িয়ে গেলে সেদিক নিচু। চোখের আন্দাজে ভরসা করবেন না।</span></div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৪</span><span style="font-size:.96em">সব পাথর, কাচ, ভাঙা ইট, শিকড় ও বাঁশের গোড়া সরিয়ে ফেলুন। একটা ছোট পাথরও কয়েক টন চাপের নিচে তেরপল ফুটো করে দেয়।</span></div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৫</span><span style="font-size:.96em">মূল তেরপলের নিচে একটা পুরোনো তেরপল বা জিওটেক্সটাইল বিছিয়ে দিন — সস্তা বিমা।</span></div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:18px 22px;align-items:flex-start"><span style="flex:none;width:28px;height:28px;border:2px solid var(--bp-green);color:var(--bp-green-text);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৬</span><span style="font-size:.96em">প্রথমবার পানি ভরুন <strong style="color:var(--bp-head)">মাছ ছাড়া, ধীরে ধীরে</strong>, আর ২৪ ঘণ্টা রেখে দেখুন কোথাও চুইয়ে পড়ছে কি না বা এক দিক বসছে কি না।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৬</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">জায়গা বাছাই — সাতটা শর্ত</h2>
+            </div>
+            <div style="display:grid;gap:14px">
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">আংশিক রোদ, উপরে শেড।</strong> সারাদিন কড়া রোদে পানি ৩৫°C ছাড়িয়ে যায় ও শৈবাল বেড়ে যায়। আবার একদম অন্ধকারেও নয়। টিন বা নেটের ছাউনি আদর্শ।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">উপরে জাল।</strong> পাখি, বিড়াল ও গাছের পাতা ঠেকাতে। পড়া পাতা পচে পানির অক্সিজেন খায়।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">বিদ্যুতের লাইন কাছে ও নিরাপদ।</strong> পানির পাশে বিদ্যুৎ — সব সংযোগ উঁচুতে, ঢাকা ও আর্থিং করা থাকতে হবে।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">পানির উৎস হাতের কাছে।</strong> বালতিতে ৫০ মিটার দূর থেকে পানি আনতে হলে প্রথম মাসেই হাল ছেড়ে দেবেন।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">পানি বের করার জায়গা।</strong> ফ্লক-মেশানো পানি কোথায় ফেলবেন আগে ভাবুন — সবজির ক্ষেতে দিলে চমৎকার সার হয়।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">বন্যার সীমার উপরে।</strong> আপনার এলাকায় গত ১০ বছরে পানি কতদূর উঠেছিল — প্রতিবেশীকে জিজ্ঞেস করুন।</span></div>
+              <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-green-text);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">চোখের সামনে।</strong> ঘর থেকে দেখা যায় এমন জায়গা হলে রাতে পাম্প বন্ধ হলে টের পাবেন। এটা নিরাপত্তার প্রশ্ন নয়, বেঁচে থাকার প্রশ্ন।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৭</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">পানি বের করার ব্যবস্থা</h2>
+            </div>
+            <p style="margin:0 0 20px">ট্যাংক বানানোর সময়েই এটা ভাবতে হবে — পরে করা প্রায় অসম্ভব।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green);margin-bottom:20px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কেন্দ্রীয় ড্রেন (সেন্টার ড্রেন)</strong><span style="font-size:.95em;color:var(--bp-muted2)">ট্যাংকের ঠিক মাঝখানে নিচে একটা আউটলেট, বাইরে ভালভ। পানি ঘুরে ময়লা মাঝখানে জমে, দিনে একবার ভালভ খুলে অল্প পানি ছাড়লেই জমা কাদা বেরিয়ে যায়। তলা সামান্য (২–৩%) মাঝের দিকে ঢালু করুন।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ওভারফ্লো পাইপ</strong><span style="font-size:.95em;color:var(--bp-muted2)">উপরের দিকে একটা পাইপ, যাতে হঠাৎ বৃষ্টিতে পানি বেড়ে গেলে মাছসহ উপচে না পড়ে। মুখে জাল লাগিয়ে দিন।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ছোট ট্যাংকে সাইফন যথেষ্ট</strong><span style="font-size:.95em;color:var(--bp-muted2)">৫০০–১,০০০ লিটারে আলাদা প্লাম্বিং না করে একটা পাইপ দিয়ে সাইফন করেই তলার কাদা তোলা যায়। খরচ শূন্য।</span></div>
+            </div>
+            <p style="margin:0;font-size:.93em;color:var(--bp-muted)">তেরপলে ফুটো করে পাইপ বসানোর জায়গাটাই সবচেয়ে দুর্বল জায়গা। ভালো মানের ট্যাংক-কানেক্টর (bulkhead fitting) ও দুই পাশে রাবার ওয়াশার ব্যবহার করুন। সস্তা ফিটিং দিয়ে বাঁচানো ২০০ টাকা পরে ২০,০০০ টাকার ক্ষতি করে।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৮</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">সিমেন্ট ট্যাংকের বিশেষ সতর্কতা</h2>
+            </div>
+            <p style="margin:0 0 18px">নতুন সিমেন্ট থেকে <strong style="color:var(--bp-head)">চুন (ক্ষার) বের হতে থাকে</strong>। এতে পানির pH ১০–১২ পর্যন্ত উঠে যায় — এই পানিতে মাছ ছাড়লে কয়েক ঘণ্টায় মারা যাবে, আর উপকারী ব্যাকটেরিয়াও জন্মাবে না।</p>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px;margin-bottom:20px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:8px">নতুন সিমেন্ট ট্যাংক প্রস্তুত করার নিয়ম</strong>
+              <div style="display:grid;gap:10px;font-size:.96em">
+                <span><strong style="color:var(--bp-head)">১.</strong> পানি ভরে ৩–৪ দিন রেখে ফেলে দিন। এভাবে অন্তত ৩–৪ বার করুন (মোট ২–৩ সপ্তাহ)।</span>
+                <span><strong style="color:var(--bp-head)">২.</strong> গ্রামীণ পদ্ধতি: পানিতে কলাগাছের কাণ্ড কেটে ভিজিয়ে রাখা বা টক দই/তেঁতুলের পানি মেশানো — এতে ক্ষার দ্রুত কাটে।</span>
+                <span><strong style="color:var(--bp-head)">৩.</strong> শেষ ধাপে pH মেপে দেখুন। <strong>৮.৫-এর নিচে না নামা পর্যন্ত</strong> ফ্লক তৈরি শুরু করবেন না।</span>
+                <span><strong style="color:var(--bp-head)">৪.</strong> স্থায়ী সমাধান — ভেতরে খাদ্য-নিরাপদ এপক্সি রং বা তেরপলের আস্তরণ দিয়ে দিন। তখন আর ক্ষারের সমস্যা থাকে না এবং পরিষ্কারও সহজ হয়।</span>
+              </div>
+            </div>
+            <p style="margin:0;font-size:.93em;color:var(--bp-muted)">এই ২–৩ সপ্তাহ সাইক্লিংয়ের সময়ের <em>বাইরে</em>। অর্থাৎ সিমেন্ট ট্যাংকে মাছ ছাড়তে ঢালাইয়ের পর প্রায় দেড় মাস লাগবে — পরিকল্পনায় এই সময়টা ধরে রাখুন।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-green);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৯</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">তাহলে আপনি কী নেবেন</h2>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-green)">
+              <div style="background:var(--bp-card);padding:22px 24px"><strong style="display:block;color:var(--bp-head);margin-bottom:5px">একদম নতুন, শুধু শিখতে চান</strong><span style="font-size:.95em;color:var(--bp-muted2)">একটা ৫০০ লিটারের গোল তেরপল ট্যাংক অথবা একটা সেকেন্ড-হ্যান্ড IBC (উপরের অংশ কেটে)। খরচ ৫,০০০–৮,০০০ টাকা। এটাই অধ্যায় ০৭-এর পাইলট।</span></div>
+              <div style="background:var(--bp-card);padding:22px 24px"><strong style="display:block;color:var(--bp-head);margin-bottom:5px">এক চক্রের অভিজ্ঞতা আছে, আয় চান</strong><span style="font-size:.95em;color:var(--bp-muted2)">২,০০০–৩,০০০ লিটারের ৬৫০ GSM তেরপল ট্যাংক, লোহার কাঠামোসহ। একটার বদলে দুটো ছোট ট্যাংক নিন — একটায় সমস্যা হলে পুরো ব্যবসা বন্ধ হবে না।</span></div>
+              <div style="background:var(--bp-card);padding:22px 24px"><strong style="display:block;color:var(--bp-head);margin-bottom:5px">বাণিজ্যিক পর্যায়ে যাচ্ছেন</strong><span style="font-size:.95em;color:var(--bp-muted2)">একাধিক ১০,০০০ লিটারের ৭৫০ GSM ট্যাংক, সেন্টার ড্রেনসহ, পাকা ভিত্তির উপরে। কয়েক বছর একই জায়গায় থাকার নিশ্চয়তা থাকলে তখন সিমেন্টের কথা ভাবুন।</span></div>
+            </div>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px;margin-top:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">একটা বড় ট্যাংক নয়, কয়েকটা ছোট</strong>
+              <span>একই টাকায় ১০,০০০ লিটারের একটা ট্যাংক না নিয়ে ৩,০০০ লিটারের তিনটা নিন। কারণ — একটায় রোগ বা মড়ক হলে বাকি দুটো বাঁচে; আলাদা আলাদা সময়ে মাছ ছেড়ে সারা বছর বিক্রি করা যায়; আর একটা খালি রেখে পরিষ্কার ও মেরামত করা যায়। ঝুঁকি ভাগ করাই বায়োফ্লকে টিকে থাকার সবচেয়ে বড় কৌশল।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১০</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">যে ভুলগুলো বারবার হয়</h2>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">সমতল না করেই ট্যাংক বসানো</strong><span style="font-size:.95em;color:var(--bp-muted2)">এক ইঞ্চি হেলে থাকা মানে এক পাশে কয়েকশো কেজি বাড়তি চাপ। কয়েক মাসে সেলাই ছিঁড়ে যায়।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">প্রথমেই খুব বড় ট্যাংক</strong><span style="font-size:.95em;color:var(--bp-muted2)">১০,০০০ লিটার দিয়ে শুরু করে প্রথম ভুলেই ৭০–৮০ হাজার টাকা হারানো — বাংলাদেশে সবচেয়ে সাধারণ ব্যর্থতার গল্প।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">GSM না জেনে সস্তা তেরপল</strong><span style="font-size:.95em;color:var(--bp-muted2)">"সস্তা" তেরপল দেড় বছরে ফাটে, আর ফাটে সবসময় মাছ বড় হওয়ার পর — যখন ক্ষতি সবচেয়ে বেশি।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">সিমেন্ট ট্যাংকে ক্ষার না কেটে মাছ ছাড়া</strong><span style="font-size:.95em;color:var(--bp-muted2)">pH ১০+ পানিতে মাছ ছাড়লে সকালেই সব মরে থাকবে, আর চাষি ভাববেন "রোগ হয়েছে"।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">ছাদের ভার বিবেচনা না করা</strong><span style="font-size:.95em;color:var(--bp-muted2)">এটা শুধু মাছ হারানোর ঝুঁকি নয় — পুরো ছাদ ধসে পড়ার ঝুঁকি। ২,০০০ লিটারের বেশি হলে ইঞ্জিনিয়ার দেখান।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">ড্রেন ও ওভারফ্লো পরে করব ভাবা</strong><span style="font-size:.95em;color:var(--bp-muted2)">ভরা ট্যাংকে পাইপ বসানো যায় না। শুরুতেই করুন, নাহলে সারাজীবন বালতি দিয়ে কাদা তুলতে হবে।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:8px">
+            <div data-block="1" style="background:var(--bp-deep);padding:32px 34px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:16px">এই অধ্যায়ে যা শিখলেন</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">গোল ট্যাংক নিন — পানি ঘোরে, ময়লা মাঝে জমে, মরা কোণা থাকে না।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">পানির গভীরতা ১–১.৩ মিটার, ট্যাংকের উচ্চতা তার চেয়ে ২০–৩০ সেমি বেশি।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">নতুনদের জন্য IBC বা ছোট তেরপল; সিমেন্ট রাখুন দ্বিতীয়-তৃতীয় বছরের জন্য।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">তেরপল কিনলে ৬৫০ GSM, দুই দিকে কোটিং, UV স্থিতিশীল, তাপে ঝালাই করা জোড়া।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">১ লিটার = ১ কেজি। ভিত্তি সমতল ও শক্ত না হলে ট্যাংক নয়, মাটি বিশ্বাসঘাতকতা করবে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">একটা বড়র বদলে কয়েকটা ছোট ট্যাংক — ঝুঁকি ভাগ হয়, বিক্রিও সারা বছর চলে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">নতুন সিমেন্টের ক্ষার না কাটা পর্যন্ত মাছ নয় — pH ৮.৫-এর নিচে নামা চাই।</span></div>
+              </div>
+            </div>
+          </section>
+`,o=e(),s=`04-tank-types`,c=`তেরপল, ড্রাম নাকি সিমেন্ট — আপনার জন্য কোনটা ঠিক। সাথে যে জিনিসটা নিয়ে কেউ কথা বলে না অথচ সবচেয়ে বেশি দুর্ঘটনা ঘটায়: ট্যাংকের <em>নিচের</em> অংশ।`;function l(){let e=t(s),l=n(s);return(0,o.jsx)(i,{id:e.id,title:e.title,lead:c,partNum:l.num,partTitle:l.title,accent:l.accent,children:(0,o.jsx)(r,{html:a})})}export{l as default};

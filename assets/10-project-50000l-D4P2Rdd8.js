@@ -1,0 +1,235 @@
+import{i as e,n as t,r as n}from"./index-Sfibn48Y.js";import{n as r,t as i}from"./ChapterShell-HFwY9Orh.js";var a=`<div data-block="1" style="background:var(--bp-soft);border-top:3px solid var(--bp-amber);padding:26px 30px 28px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amber-text);margin-bottom:10px">পুরো অধ্যায়টা এক লাইনে</div>
+            <p style="margin:0;font-size:1.1em;font-weight:600;color:var(--bp-head);line-height:1.75">৫০,০০০ লিটারে বছরে প্রায় ৩,৮০০ কেজি মাছ ওঠে, ১৫–২৩ লাখ টাকা লাগে, আর সব খরচ ও কর্মীর বেতন দেওয়ার পর হাতে থাকে <strong>বছরে আড়াই লাখের কাছাকাছি</strong>। এই ধাপে লাভ আসে দামি মাছ আর কঠিন ব্যবস্থাপনা থেকে — <strong>বড় ট্যাংক থেকে নয়</strong>।</p>
+          </div>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">তেলাপিয়া দিয়ে এই খামার চলবে না</h2>
+            </div>
+            <p style="margin:0 0 20px">অধ্যায় ০৯-এ ১০,০০০ লিটার থেকে মাসে ১০–১৫ হাজার এসেছিল। সহজ হিসাবে পাঁচগুণ ট্যাংক মানে পাঁচগুণ আয় — কিন্তু বাস্তবে হয় না। কারণ এই ধাপে <strong style="color:var(--bp-head)">দুজন কর্মীর বেতন যোগ হয়, বছরে প্রায় তিন লাখ টাকা</strong>। ২০০ টাকা কেজি দরের মাছে সেই বেতন ওঠে না।</p>
+            <p style="margin:0 0 22px">তাই কমার্শিয়াল বায়োফ্লকের একটাই পথ — <strong style="color:var(--bp-head)">বেশি দামের মাছ, যা বেশি ঘনত্ব সহ্য করে</strong>। শিং, পাবদা বা মাগুর। শিং প্রতি ঘনমিটারে ৪০ কেজি পর্যন্ত থাকতে পারে, খামার থেকেই ৪৫০–৫০০ টাকা কেজি দরে যায়, আর জীবিত অবস্থায় বাজারে নেওয়া যায়। এই তিনটা গুণ একসাথে আর কোনো মাছে নেই।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-amber);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">নকশা: ১২ × ৪,০০০ + ৪ × ৫০০</strong><span style="font-size:.95em;color:var(--bp-muted2)">বারোটা গ্রো-আউট ট্যাংক (ব্যাস ২.৬ মিটার, পানি ০.৭৫ মিটার) আর চারটা ৫০০ লিটার নার্সারি — মোট ৫০,০০০ লিটার। ট্যাংক আরও বড় করার লোভ করবেন না; ৪,০০০ লিটারই এক জনের হাতে সামলানোর সর্বোচ্চ মাপ।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">দুই সারিতে বসান, মাঝে পথ</strong><span style="font-size:.95em;color:var(--bp-muted2)">ছয়টা করে দুই সারি, মাঝে ৫ ফুট চওড়া পাকা পথ — ট্রলি চলবে। প্রতিটা ট্যাংকের নিজের ভালভ, নিজের এয়ার লাইন আর নিজের নম্বর প্লেট। নম্বর ছাড়া বারোটা ট্যাংকের খাতা রাখা অসম্ভব।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">জায়গা ২,৪০০ বর্গফুট, বিদ্যুৎ তিন ফেজ</strong><span style="font-size:.95em;color:var(--bp-muted2)">প্রায় দেড় শতক জমি লাগবে শেড, স্টোর, অফিস আর কর্মীর ঘরসহ। ব্লোয়ার দুটো একসাথে চললে এক ফেজে চাপ পড়ে — তিন ফেজের সংযোগ নিন, নইলে গরমে ভোল্টেজ পড়ে ব্লোয়ার পুড়বে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">শিং মানে নতুন করে শেখা</strong><span style="font-size:.95em;color:var(--bp-muted2)">শিংয়ের চক্র লম্বা (৫–৬ মাস), পোনা সংবেদনশীল, আর কাঁটার কারণে ধরার নিয়ম আলাদা। তেলাপিয়ায় দক্ষ হলেও শিংয়ে <strong>দুটো ট্যাংক দিয়ে এক চক্র পরীক্ষা</strong> করে নিন — বারোটা ট্যাংক ভরার আগে।</span></div>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">এই প্রজেক্টে ঢোকার শর্ত</strong>
+              <span>প্রজেক্ট ৩-এর <strong style="color:var(--bp-head)">অন্তত দুই বছর</strong>, একটা লিখিত ক্রেতা-চুক্তি, আর নিজের হাতে অন্তত ৪০% মূলধন। এই তিনটার একটাও না থাকলে অধ্যায় ০৯-এই থাকুন — লোকসান এখানে মাসে হয় না, বছরে হয়।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">আগে ক্রেতা, তারপর ট্যাংক</h2>
+            </div>
+            <p style="margin:0 0 20px">১০০ কেজি মাছ স্থানীয় বাজারেই বিক্রি হয়ে যায়। কিন্তু প্রতি দুই সপ্তাহে <strong style="color:var(--bp-head)">১৫০ কেজি জীবিত শিং</strong> এক জায়গায় নিতে পারে এমন ক্রেতা হাতে গোনা। ট্যাংক বসানোর আগেই তাকে খুঁজে বের করতে হবে — মাছ বড় হওয়ার পর নয়।</p>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-amber);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">যে চারজনের সাথে আগে কথা বলবেন</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span><strong style="color:var(--bp-head)">১.</strong> <strong>জেলা শহরের আড়তদার</strong> — নিয়মিত নেবে, কিন্তু দাম বাজারদরের ১০–১৫% কম আর টাকা ৭–১৫ দিনে। দুজন আড়তদার রাখুন, একজনের উপর নির্ভর করবেন না।</span>
+                <span><strong style="color:var(--bp-head)">২.</strong> <strong>ঢাকার জীবিত মাছের ভ্যান-ব্যবসায়ী</strong> — দাম সবচেয়ে ভালো, কিন্তু নির্দিষ্ট মাপ আর নির্দিষ্ট দিন চায়। এদের জন্যই স্ট্যাগার্ড চাকা দরকার।</span>
+                <span><strong style="color:var(--bp-head)">৩.</strong> <strong>রেস্টুরেন্ট ও ক্যাটারিং</strong> — অল্প পরিমাণ, নগদ টাকা, ভালো দাম। মোট বিক্রির ১৫–২০% এদের রাখলে নগদ প্রবাহ সহজ হয়।</span>
+                <span><strong style="color:var(--bp-head)">৪.</strong> <strong>প্রতিবেশী খামারি</strong> — আপনার নার্সারির অতিরিক্ত পোনার ক্রেতা, আর দরকারে আপনার মাছও একসাথে গাড়িতে যায়। প্রতিযোগী নয়, সহযোগী।</span>
+              </div>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-amber)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">চুক্তিতে যা লেখা থাকবে</strong><span style="font-size:.95em;color:var(--bp-muted2)">পরিমাণ, মাপ (৮০–১২০ গ্রাম), দাম কীভাবে ঠিক হবে (বাজারদরের সাথে সম্পর্ক), টাকা কত দিনে, আর কে বহন করবে। কাগজে না থাকলে দাম পড়ার দিন কেউ মনে রাখে না।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">জীবিত পরিবহনের ব্যবস্থা</strong><span style="font-size:.95em;color:var(--bp-muted2)">শিংয়ের আসল দাম জীবিত অবস্থায়। ৩০০ লিটারের দুটো প্লাস্টিক ড্রাম, ব্যাটারিচালিত এয়ারেটর আর বরফ — খরচ ২৫,০০০ টাকার নিচে, কিন্তু কেজিতে ৫০–৮০ টাকা বেশি আনে। এটাই এই প্রজেক্টের সবচেয়ে লাভজনক যন্ত্র।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">এক ক্রেতার ফাঁদ</strong><span style="font-size:.95em;color:var(--bp-muted2)">একজন আড়তদার সব মাছ নিলে প্রথম বছর আরাম, দ্বিতীয় বছর সে দাম ঠিক করে। ৫০% এক ক্রেতা, বাকি ৫০% অন্তত তিন জায়গায় — এই ভাগ প্রথম দিন থেকেই রাখুন।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৩</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">এককালীন বিনিয়োগ</h2>
+            </div>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:620px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">জিনিস</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">মাপ</th>
+                    <th style="text-align:right;padding:12px 14px;font-weight:600">খরচ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">গ্রো-আউট ট্যাংক (স্টিল ফ্রেমসহ)</td><td style="padding:11px 14px">১২টি × ৪,০০০ লিটার</td><td style="padding:11px 14px;text-align:right">২,৪০,০০০–৩,৬০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">নার্সারি ট্যাংক</td><td style="padding:11px 14px">৪টি × ৫০০ লিটার</td><td style="padding:11px 14px;text-align:right">২৪,০০০–৩২,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ব্লোয়ার + স্পেয়ার</td><td style="padding:11px 14px">২টি × ২ HP, ৩ ফেজ</td><td style="padding:11px 14px;text-align:right">৯০,০০০–১,৩০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">এয়ার লাইন, ম্যানিফোল্ড, নানো টিউব</td><td style="padding:11px 14px">৬০–৭০ মিটার</td><td style="padding:11px 14px;text-align:right">৪৫,০০০–৬৫,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">শেড</td><td style="padding:11px 14px">২,৪০০ বর্গফুট</td><td style="padding:11px 14px;text-align:right">২,৪০,০০০–৩,৬০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">তিন ফেজ সংযোগ ও ওয়্যারিং</td><td style="padding:11px 14px">মিটার + প্যানেল</td><td style="padding:11px 14px;text-align:right">৬০,০০০–১,২০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">ডিজেল জেনারেটর</td><td style="padding:11px 14px">৭.৫ কিলোওয়াট, অটো-স্টার্ট</td><td style="padding:11px 14px;text-align:right;font-weight:600">১,৪০,০০০–২,২০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">অক্সিজেন সিলিন্ডার ও ডিফিউজার</td><td style="padding:11px 14px">৪টি + রেগুলেটর</td><td style="padding:11px 14px;text-align:right;font-weight:600">৪৫,০০০–৬০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">পানির উৎস, রিজার্ভ ও পাইপলাইন</td><td style="padding:11px 14px">সাবমার্সিবল + ২ × ২,০০০ লি.</td><td style="padding:11px 14px;text-align:right">৭০,০০০–১,১০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">টেস্ট ও ল্যাব সরঞ্জাম</td><td style="padding:11px 14px">DO, pH, TDS মিটার, মাইক্রোস্কোপ</td><td style="padding:11px 14px;text-align:right">৪৫,০০০–৭০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">হারভেস্ট ও পরিবহন সরঞ্জাম</td><td style="padding:11px 14px">জাল, ক্রেট, ড্রাম, ওজন, ট্রলি</td><td style="padding:11px 14px;text-align:right">৩৫,০০০–৫৫,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">স্টোর ও অফিস ঘর</td><td style="padding:11px 14px">খাবার ও খাতার জন্য</td><td style="padding:11px 14px;text-align:right">৮০,০০০–১,৫০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">কর্মীর থাকার ঘর</td><td style="padding:11px 14px">রাতে কেউ থাকতেই হবে</td><td style="padding:11px 14px;text-align:right">৬০,০০০–১,০০,০০০</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-amber);background:var(--bp-soft)"><td style="padding:13px 14px;font-weight:700;color:var(--bp-head)">এককালীন মোট</td><td style="padding:13px 14px"></td><td style="padding:13px 14px;text-align:right;font-weight:700;color:var(--bp-head)">১১,৭৪,০০০–১৮,৩২,০০০</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-amber);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">কার্যকরী মূলধন — এখানে টাকা আটকে থাকে নয় মাস</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span>শিংয়ের চক্র ৫–৬ মাস, তার আগে নার্সারিতে ৬ সপ্তাহ। প্রথম ট্যাংকের টাকা ফিরতে <strong style="color:var(--bp-head)">প্রায় আট মাস</strong>।</span>
+                <span>ততদিন পোনা, খাবার, বিদ্যুৎ আর দুজনের বেতন চলবে — লাগবে <strong style="color:var(--bp-head)">৩,৫০,০০০–৪,৫০,০০০ টাকা</strong>।</span>
+                <span>অর্থাৎ শুরু করতে আসল প্রয়োজন <strong>১৫ থেকে ২৩ লাখ</strong>। বারো লাখ হাতে নিয়ে নামলে দশম মাসে খাবার কেনার টাকা থাকবে না — আর তখন ট্যাংকে দশ লাখ টাকার মাছ।</span>
+              </div>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-amber)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ছয় ট্যাংক দিয়ে শুরু করা যায়</strong><span style="font-size:.95em;color:var(--bp-muted2)">শেড আর বিদ্যুৎ পুরোটার মাপে করুন, কিন্তু ট্যাংক প্রথমে ছয়টা। শুরুর খরচ ৮ লাখে নামে, আর দ্বিতীয় বছরের লাভ থেকে বাকি ছয়টা হয়। এই পথটাই সবচেয়ে নিরাপদ — এবং বেশিরভাগ সফল খামার এভাবেই বড় হয়েছে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">ঋণ ও অংশীদার</strong><span style="font-size:.95em;color:var(--bp-muted2)">১২% সুদে ১০ লাখ ঋণ মানে বছরে ১,২০,০০০ টাকা সুদ — নিচের হিসাবের অর্ধেক লাভ। ঋণ নিলে অন্তত এক বছরের গ্রেস পিরিয়ড চান, আর কৃষি ব্যাংক বা এসএমই তহবিলের দর দেখুন। অংশীদার নিলে কাজ ও সিদ্ধান্তের ভাগ কাগজে লিখুন — টাকার ভাগের আগে।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৪</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">দুই সপ্তাহের চাকা ও বছরের ফলন</h2>
+            </div>
+            <p style="margin:0 0 20px">বারোটা ট্যাংক, প্রতি <strong style="color:var(--bp-head)">দুই সপ্তাহে একটা</strong> ভরা ও একটা তোলা। পুরো চাকা ঘুরতে ছয় মাস, তারপর সারা বছর প্রতি পক্ষকালে একটা ফসল — অর্থাৎ বছরে ২৪–২৬ বার টাকা আসে।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:640px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">ধাপ</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">সময়</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কী হয়</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">নার্সারি</td><td style="padding:11px 14px">৬ সপ্তাহ</td><td style="padding:11px 14px">২,৪০০ পোনা (১–২ গ্রাম) থেকে ৮–১০ গ্রাম। এখানেই মৃত্যুহার সবচেয়ে বেশি — টিকে যায় ৭৫–৮০%।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">গ্রো-আউটে স্থানান্তর</td><td style="padding:11px 14px">১ দিন</td><td style="padding:11px 14px">১,৮০০ মাছ ৪,০০০ লিটারে। পানির তাপমাত্রা ও pH দুই ট্যাংকে মিলিয়ে নিন, নইলে ধাক্কায় মরে।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">বাড়ার সময়</td><td style="padding:11px 14px">১৮–২০ সপ্তাহ</td><td style="padding:11px 14px">৮ গ্রাম থেকে ৯০–১০০ গ্রাম। ঘনত্ব শেষে ৪০ কেজি/ঘনমিটার — এই সময়টায় DO মাপা বাদ দেওয়ার কোনো অজুহাত নেই।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">হারভেস্ট</td><td style="padding:11px 14px">১–২ দিন</td><td style="padding:11px 14px">১৬০ কেজি, জীবিত অবস্থায় ড্রামে। আগের রাতে খাবার বন্ধ।</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-amber);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ট্যাংক প্রস্তুতি</td><td style="padding:11px 14px">১ সপ্তাহ</td><td style="padding:11px 14px">অর্ধেক পানি রেখে দিন — পুরনো ফ্লক নতুন চক্রের সবচেয়ে দামি সম্পদ।</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-amber);padding:24px 28px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">বছরের ফলন — কাগজে</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span>প্রতি ট্যাংক প্রতি চক্রে <strong style="color:var(--bp-head)">১৬০ কেজি</strong> (১,৮০০ মাছ × ৯৫ গ্রাম, ৯৩% বাঁচা)।</span>
+                <span>প্রতি ট্যাংক বছরে <strong>২ চক্র</strong> (২৬ সপ্তাহ প্রতি চক্র, প্রস্তুতিসহ)।</span>
+                <span>১২ ট্যাংক × ২ চক্র × ১৬০ কেজি = <strong style="color:var(--bp-head)">৩,৮৪০ কেজি</strong>। হিসাবে ধরুন <strong>৩,৮০০ কেজি</strong> — একটা চক্র প্রতি বছর খারাপ যাবে, সেটা ধরে নেওয়াই বুদ্ধিমানের কাজ।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৫</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কর্মী, বেতন আর নিয়মের খাতা</h2>
+            </div>
+            <p style="margin:0 0 20px">এখান থেকে আপনার আসল কাজ মাছ নয়, মানুষ। <strong style="color:var(--bp-head)">দুজন পূর্ণকালীন কর্মী</strong> ছাড়া ৫০,০০০ লিটার চলে না — একজনকে রাতে খামারে থাকতে হবে, আর একজন ছুটি নিলেও ব্লোয়ার বন্ধ হবে না।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-amber);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কর্মী ১ — খামার সহকারী (১৩,০০০ টাকা + থাকা)</strong><span style="font-size:.95em;color:var(--bp-muted2)">খাওয়ানো, পানি পরীক্ষা, খাতা লেখা, রাতে থাকা। এই লোকটাই আপনার সবচেয়ে দামি সম্পদ — বেতন বাজারদরের ১০% বেশি দিন, আর ফসল ভালো হলে বোনাস। ভালো সহকারী চলে গেলে খরচ বেতনের দশগুণ।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কর্মী ২ — সাধারণ শ্রমিক (১১,০০০ টাকা)</strong><span style="font-size:.95em;color:var(--bp-muted2)">পরিষ্কার, পানি টানা, হারভেস্টে সাহায্য, বাজারে যাওয়া। কিন্তু তাকেও খাওয়ানো ও DO মাপা শেখাতে হবে — সহকারী অসুস্থ হলে খামার থামতে পারে না।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">আপনি — ব্যবস্থাপক</strong><span style="font-size:.95em;color:var(--bp-muted2)">পোনা কেনা, খাবার কেনা, দাম ঠিক করা, বিক্রি, হিসাব আর সিদ্ধান্ত। দিনে অন্তত দুবার খামারে থাকতে হবে। নিজের বেতন হিসাবে না ধরলে হিসাব মিথ্যা হয় — নিচের হিসাবে আপনার শ্রম <strong>লাভের ভেতরেই</strong> আছে, আলাদা খরচ নয়।</span></div>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-amber);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">তিনটা খাতা, যা প্রতিদিন লেখা হবে</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span><strong style="color:var(--bp-head)">১. ট্যাংক খাতা</strong> — প্রতি ট্যাংকের নম্বর, তারিখ, খাবারের পরিমাণ, DO, pH, তাপমাত্রা, মরা মাছের সংখ্যা। বারোটা ট্যাংকের জন্য একটাই বাঁধানো খাতা, দিনে দুই লাইন।</span>
+                <span><strong style="color:var(--bp-head)">২. স্টোর খাতা</strong> — খাবার, গুড়, লবণ, ওষুধ কত এল আর কত গেল। এই খাতা না থাকলে খাবার কোথায় যায় কেউ জানে না।</span>
+                <span><strong style="color:var(--bp-head)">৩. টাকার খাতা</strong> — প্রতিটা বিক্রি, প্রতিটা খরচ, তারিখসহ। মাসের শেষে দশ মিনিট বসলেই বোঝা যায় খামার লাভে না লোকসানে।</span>
+              </div>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">দেয়ালে টাঙানো নিয়ম, মুখের কথা নয়</strong>
+              <span>খাওয়ানোর সময়, DO-র সীমা, বিদ্যুৎ গেলে কী করতে হবে, কাকে ফোন করতে হবে — সব <strong style="color:var(--bp-head)">বড় অক্ষরে ছাপিয়ে শেডের দেয়ালে</strong>। মুখে বলা নিয়ম কর্মী বদলালেই হারিয়ে যায়। এক রাতে ভুল হলে দুই লাখ টাকার মাছ যায়।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৬</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">এক বছরের পূর্ণ লাভ-ক্ষতি</h2>
+            </div>
+            <p style="margin:0 0 20px">এটা দ্বিতীয় বছরের হিসাব — যখন চাকা পুরো ঘুরছে। প্রথম বছরে ফলন অর্ধেক, তাই প্রথম বছরে লাভ আশা করবেন না।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:620px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">খাত</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">হিসাব</th>
+                    <th style="text-align:right;padding:12px 14px;font-weight:600">টাকা</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-green-text)">মাছ বিক্রি</td><td style="padding:11px 14px">৩,৮০০ কেজি × ৪৫০ টাকা</td><td style="padding:11px 14px;text-align:right;font-weight:600;color:var(--bp-green-text)">১৭,১০,০০০</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-green-text)">পোনা বিক্রি (নার্সারি থেকে)</td><td style="padding:11px 14px">অতিরিক্ত ক্ষমতা কাজে লাগিয়ে</td><td style="padding:11px 14px;text-align:right;font-weight:600;color:var(--bp-green-text)">৯০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">খাবার</td><td style="padding:11px 14px">৬,১০০ কেজি × ৭৫ টাকা (FCR ১.৬)</td><td style="padding:11px 14px;text-align:right">৪,৫৭,৫০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">পোনা</td><td style="padding:11px 14px">৫৮,০০০টি × ৩.৫ টাকা</td><td style="padding:11px 14px;text-align:right">২,০৩,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">কর্মীর বেতন</td><td style="padding:11px 14px">২ জন × ১২,০০০ × ১২ মাস + বোনাস</td><td style="padding:11px 14px;text-align:right">৩,১২,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">বিদ্যুৎ</td><td style="padding:11px 14px">মাসে ~১,২০০ ইউনিট × ৯.৫ টাকা</td><td style="padding:11px 14px;text-align:right">১,৩৭,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">গুড়, প্রোবায়োটিক, লবণ, চুন, ওষুধ</td><td style="padding:11px 14px">বছরের হিসাব</td><td style="padding:11px 14px;text-align:right">৯০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">জেনারেটরের তেল ও মেরামত</td><td style="padding:11px 14px">লোডশেডিং + যন্ত্র সারানো</td><td style="padding:11px 14px;text-align:right">৮০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">পরিবহন, বরফ, বাজার খরচ</td><td style="padding:11px 14px">২৬ বার বিক্রি</td><td style="padding:11px 14px;text-align:right">৭০,০০০</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">অবচয় (যন্ত্র ও ট্যাংক)</td><td style="padding:11px 14px">ট্যাংক ৫ বছর, যন্ত্র ৮ বছর</td><td style="padding:11px 14px;text-align:right;font-weight:600">১,১০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 14px;font-weight:700;color:var(--bp-head)">মোট খরচ</td><td style="padding:12px 14px"></td><td style="padding:12px 14px;text-align:right;font-weight:700;color:var(--bp-head)">১৪,৫৯,৫০০</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-amber);background:var(--bp-soft)"><td style="padding:13px 14px;font-weight:700;color:var(--bp-head)">বছরের নিট লাভ</td><td style="padding:13px 14px">মাসে ~২৮,০০০ টাকা</td><td style="padding:13px 14px;text-align:right;font-weight:700;color:var(--bp-head)">৩,৪০,৫০০</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-amber)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">এই সংখ্যাটা কী বলছে</strong><span style="font-size:.95em;color:var(--bp-muted2)">১৫ লাখ বিনিয়োগে বছরে ৩.৪ লাখ — অর্থাৎ প্রায় <strong>২২% রিটার্ন</strong>, মূলধন ফিরতে সাড়ে চার থেকে পাঁচ বছর। ব্যাংকের এফডিআরের চেয়ে ভালো, কিন্তু ঝুঁকিও এফডিআরের মতো নয়। আর এর ভেতরে আপনার নিজের পূর্ণকালীন শ্রম ধরা আছে — সেটা বাদ দিলে রিটার্ন অনেক কম।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কেজিপ্রতি হিসাবটা মুখস্থ রাখুন</strong><span style="font-size:.95em;color:var(--bp-muted2)">এক কেজি শিং তুলতে খরচ প্রায় <strong>৩৮৪ টাকা</strong> (১৪,৫৯,৫০০ ÷ ৩,৮০০)। বিক্রি ৪৫০ টাকায়। অর্থাৎ কেজিতে লাভ ৬৬ টাকা — <strong style="color:var(--bp-redtext)">দাম ৩৮৫-এ নামলেই খামার শূন্যে</strong>। এই একটা সংখ্যাই আপনার সব সিদ্ধান্তের মাপকাঠি।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-amber);color:#0a1418;font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৭</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">সংখ্যা একটু নড়লে কী হয়</h2>
+            </div>
+            <p style="margin:0 0 20px">উপরের হিসাব একটা ভালো বছরের। বাস্তবে কোনো বছর সব ঠিক থাকে না। নিচের তিনটা সংখ্যা নড়লে লাভ কোথায় যায়:</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:600px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">যা বদলায়</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কতটুকু</th>
+                    <th style="text-align:right;padding:12px 14px;font-weight:600">বছরের নিট লাভ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">সব ঠিক থাকলে</td><td style="padding:11px 14px">৩,৮০০ কেজি, ৪৫০ টাকা</td><td style="padding:11px 14px;text-align:right;font-weight:600">৩,৪০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">দাম পড়ল</td><td style="padding:11px 14px">৪৫০ → ৪০০ টাকা</td><td style="padding:11px 14px;text-align:right;font-weight:600">১,৫০,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">খাবারের দাম বাড়ল</td><td style="padding:11px 14px">৭৫ → ৮৫ টাকা কেজি</td><td style="padding:11px 14px;text-align:right;font-weight:600">২,৭৯,০০০</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">দুটো ট্যাংক মারা গেল</td><td style="padding:11px 14px">৩২০ কেজি কম, খাবার আগেই খরচ হয়ে গেছে</td><td style="padding:11px 14px;text-align:right;font-weight:600;color:var(--bp-redtext)">২,১০,০০০</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-red);background:var(--bp-redbg)"><td style="padding:12px 14px;font-weight:700;color:var(--bp-redtext)">দাম পড়ল ও দুটো ট্যাংক গেল</td><td style="padding:12px 14px">একসাথে — কার্যত শূন্য</td><td style="padding:12px 14px;text-align:right;font-weight:700;color:var(--bp-redtext)">৪০,০০০</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p style="margin:0 0 20px">শেষ সারিটা কল্পনা নয় — গরমে দাম পড়ে আর গরমেই মাছ মরে, দুটো একসাথেই আসে। তখন খামার লোকসানে যায় না, কিন্তু <strong style="color:var(--bp-head)">এক বছরের পুরো পরিশ্রমের বিনিময়ে হাতে থাকে ৪০ হাজার টাকা</strong> — অর্থাৎ কিছুই না। আর এর সাথে ঋণের কিস্তি যোগ হলে সেটা সত্যিকারের লোকসান। তাই <strong style="color:var(--bp-head)">প্রতি বছরের লাভের এক-তৃতীয়াংশ আলাদা রাখুন</strong>। এটাই আপনার একমাত্র বিমা।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">যেভাবে কমার্শিয়াল খামার মরে — এক</strong><span style="font-size:.95em;color:var(--bp-muted2)">বারোটা ট্যাংক একসাথে ভরে ফেলা। তখন একই সময়ে সব খাবার লাগে, সব মাছ একসাথে ওঠে, দাম পাওয়া যায় না, আর একটা ভুল বারো ট্যাংকে ছড়ায়। স্ট্যাগার্ড চাকা ধৈর্যের ব্যাপার, কিন্তু এটাই পুরো ব্যবস্থার মেরুদণ্ড।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">দুই — মালিক খামারে থাকেন না</strong><span style="font-size:.95em;color:var(--bp-muted2)">শহরে চাকরি রেখে কর্মীর ভরসায় ৫০,০০০ লিটার চালানোর চেষ্টা। খাবার কম দেওয়া হয়, খাতা লেখা হয় না, মরা মাছ চাপা পড়ে — ছয় মাস পর হিসাব মেলে না। এই প্রজেক্ট পূর্ণকালীন, অর্ধেক মন দিয়ে হয় না।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">তিন — লাভ দিয়েই আবার ট্যাংক</strong><span style="font-size:.95em;color:var(--bp-muted2)">প্রথম ভালো বছরের পুরো লাভ দিয়ে আরও ট্যাংক বানানো। তারপর একটা খারাপ চক্র এলেই হাতে টাকা নেই। বাড়ান লাভের অর্ধেক দিয়ে, বাকি অর্ধেক ব্যাংকে — অধ্যায় ১৬-এ এই রোডম্যাপ পুরোটা আছে।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:8px">
+            <div data-block="1" style="background:var(--bp-deep);padding:32px 34px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:16px">এই অধ্যায়ে যা শিখলেন</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">কমার্শিয়াল বায়োফ্লক কম দামের মাছে চলে না — কর্মীর বেতন ওঠানোর জন্য শিং, পাবদা বা মাগুরই বাস্তব পথ।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">১২ × ৪,০০০ + ৪ × ৫০০ লিটার, দুই সপ্তাহে একটা ট্যাংক — বছরে প্রায় ৩,৮০০ কেজি ও ২৬ বার নগদ আয়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">এককালীন ১২–১৮ লাখ, কার্যকরী মূলধন ৪ লাখ — মোট ১৫ থেকে ২৩ লাখ ছাড়া শুরু করা যায় না।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">ভালো বছরে নিট লাভ প্রায় ৩.৪ লাখ, অর্থাৎ মাসে ২৮ হাজার — বিনিয়োগ ফিরতে পাঁচ বছর।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">কেজিপ্রতি খরচ ৩৮৪ টাকা — এই একটা সংখ্যা জানলে যেকোনো সিদ্ধান্ত মিনিটে নেওয়া যায়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">দাম পড়া আর মাছ মরা একসাথে এলে বছরের লাভ ৪০ হাজারে নামে — লাভের এক-তৃতীয়াংশ সরিয়ে রাখা জরুরি।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">এই ধাপে ব্যর্থতা আসে ব্যবস্থাপনা থেকে — দেয়ালে নিয়ম, তিনটা খাতা আর ছয় ট্যাংক দিয়ে শুরুই আসল সুরক্ষা।</span></div>
+              </div>
+            </div>
+          </section>
+`,o=e(),s=`10-project-50000l`,c=`এই ধাপে আপনি মাছ চাষ করেন না — একটা প্রতিষ্ঠান চালান। বারোটা ট্যাংক, দুজন বেতনভুক্ত কর্মী, পনেরো লাখ টাকার বিনিয়োগ আর এক বছরের পূর্ণ লাভ-ক্ষতির হিসাব। সংখ্যাগুলো এখানে নির্মম, কিন্তু সৎ।`;function l(){let e=t(s),l=n(s);return(0,o.jsx)(i,{id:e.id,title:e.title,lead:c,partNum:l.num,partTitle:l.title,accent:l.accent,children:(0,o.jsx)(r,{html:a})})}export{l as default};

@@ -1,0 +1,342 @@
+import{i as e,n as t,r as n}from"./index-Sfibn48Y.js";import{n as r,t as i}from"./ChapterShell-HFwY9Orh.js";var a=`<div data-block="1" style="background:var(--bp-soft);border-top:3px solid var(--bp-teal);padding:26px 30px 28px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-teal);margin-bottom:14px">এই অধ্যায়ে যা যা আছে</div>
+            <div style="display:grid;gap:8px;font-size:.97em">
+              <span>১ · খাবার থেকে বিষ — নাইট্রোজেন কোথা থেকে আসে</span>
+              <span>২ · অ্যামোনিয়ার দুই চেহারা, আর pH কেন সবচেয়ে বিপজ্জনক সংখ্যা</span>
+              <span>৩ · ময়লা পরিষ্কারের তিনটা রাস্তা — কোনটা আপনি বেছে নিচ্ছেন</span>
+              <span>৪ · নাইট্রোজেন চক্র ও নাইট্রাইটের গোপন খুন</span>
+              <span>৫ · C:N অনুপাতের পুরো হিসাব — কাগজ-কলমে</span>
+              <span>৬ · ক্ষারত্ব (alkalinity) — যে সংখ্যাটা বেশিরভাগ চাষি ভুলে যান</span>
+              <span>৭ · ফ্লক জিনিসটা আসলে কী দিয়ে তৈরি</span>
+              <span>৮ · কত ফ্লক দরকার, আর বেশি হলে কী হয়</span>
+              <span>৯ · অক্সিজেনের নীরব হিসাব</span>
+              <span>১০ · প্রথম ৩০ দিনের সময়রেখা</span>
+              <span>১১ · পাঁচটা ভুল ধারণা</span>
+            </div>
+          </div>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">খাবার থেকে বিষ — নাইট্রোজেন কোথা থেকে আসে</h2>
+            </div>
+            <p style="margin:0 0 18px">ট্যাংকে বিষ বাইরে থেকে আসে না। আপনি নিজেই প্রতিদিন হাতে করে ঢেলে দেন — <strong style="color:var(--bp-head)">মাছের খাবারের ভেতরে</strong>।</p>
+            <p style="margin:0 0 18px">মাছের খাবারে থাকে প্রোটিন। প্রোটিনের ভেতরে থাকে নাইট্রোজেন। মাছ সেই প্রোটিনের একটা অংশ শরীরে লাগায়, বাকিটা ফুলকা ও মলের মাধ্যমে পানিতে ছেড়ে দেয় — অ্যামোনিয়া হিসেবে। গবেষণায় ধরা হয় খাবারের নাইট্রোজেনের প্রায় <strong style="color:var(--bp-head)">৭৫ শতাংশ</strong> পানিতে ফিরে আসে।</p>
+            <p style="margin:0 0 24px">এবার একটা আসল হিসাব দেখুন। ৫০০ লিটারের একটা ট্যাংক, তাতে ১০০টা কই, গড়ে ৫০ গ্রাম করে — মোট ৫ কেজি মাছ। শরীরের ওজনের ৩% খাবার দিলে দিনে ১৫০ গ্রাম:</p>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-teal);padding:24px 28px;margin-bottom:20px">
+              <div style="display:grid;gap:12px;font-size:.97em">
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span>দিনের খাবার</span><strong style="color:var(--bp-head)">১৫০ গ্রাম</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span>খাবারে প্রোটিন ৩০% → প্রোটিনের পরিমাণ</span><strong style="color:var(--bp-head)">৪৫ গ্রাম</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap"><span>প্রোটিনের ১৬% নাইট্রোজেন → মোট নাইট্রোজেন</span><strong style="color:var(--bp-head)">৭.২ গ্রাম</strong></div>
+                <div style="display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--bp-line);padding-top:12px"><span>এর ৭৫% পানিতে ফেরে → রোজকার নাইট্রোজেন বোঝা</span><strong style="color:var(--bp-teal);font-size:1.1em">≈ ৫.৪ গ্রাম</strong></div>
+              </div>
+            </div>
+            <p style="margin:0 0 18px">৫.৪ গ্রাম শুনতে সামান্য মনে হয়। কিন্তু ৫০০ লিটার পানিতে ছড়ালে সেটা <strong style="color:var(--bp-head)">প্রায় ১০.৮ ppm</strong> অ্যামোনিয়া-নাইট্রোজেন — অথচ নিরাপদ সীমা ০.৫ ppm-এর নিচে। অর্থাৎ কোনো ব্যবস্থা না থাকলে <strong style="color:var(--bp-head)">একদিনেই</strong> ট্যাংক বিষাক্ত হয়ে যায়।</p>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">এখান থেকে দুটো কথা মনে রাখুন</strong>
+              <span>এক — খাবার যত বাড়বে, বিষও তত বাড়বে। তাই খাবার বাড়ানোর দিনেই চিটাগুড়ও বাড়াতে হবে। দুই — কম প্রোটিনের খাবার (২৮–৩০%) দিলে নাইট্রোজেনের বোঝা কম হয়, ব্যবস্থাপনা সহজ হয়। বায়োফ্লকে খুব উঁচু প্রোটিনের খাবার দরকার নেই, কারণ ফ্লক থেকেই বাড়তি প্রোটিন আসে।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">অ্যামোনিয়ার দুই চেহারা — আর pH কেন সবচেয়ে বিপজ্জনক সংখ্যা</h2>
+            </div>
+            <p style="margin:0 0 18px">এটা এই বইয়ের সবচেয়ে গুরুত্বপূর্ণ বিজ্ঞানের অংশ। ভালো করে পড়ুন — এই একটা জিনিস বুঝলে আপনি অনেক চাষির চেয়ে এগিয়ে থাকবেন।</p>
+            <p style="margin:0 0 18px">পানিতে অ্যামোনিয়া দুই রূপে থাকে:</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:4px">NH₄⁺ — অ্যামোনিয়াম (আয়নিত)</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">প্রায় নিরীহ। মাছের বড় ক্ষতি করে না। পানিতে বেশিরভাগ অ্যামোনিয়া এই রূপেই থাকে।</span>
+              </div>
+              <div style="background:var(--bp-card);padding:20px 22px">
+                <strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">NH₃ — মুক্ত অ্যামোনিয়া (অ-আয়নিত)</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">আসল খুনি। অ্যামোনিয়ামের চেয়ে প্রায় ১০০ গুণ বেশি বিষাক্ত। ০.০৫ ppm-এর উপরে গেলেই ফুলকার ক্ষতি শুরু, ০.২ ppm-এর উপরে সাধারণত প্রাণঘাতী।</span>
+              </div>
+            </div>
+            <p style="margin:0 0 18px">আপনার টেস্ট কিট যা দেখায় সেটা হলো <strong style="color:var(--bp-head)">TAN</strong> — দুটো মিলিয়ে মোট অ্যামোনিয়া। কিন্তু এর কত অংশ বিষাক্ত NH₃ হবে, সেটা ঠিক করে দেয় <strong style="color:var(--bp-head)">pH ও তাপমাত্রা</strong>। pH যত বেশি, বিষাক্ত অংশ তত বেশি।</p>
+            <div style="overflow-x:auto;margin-bottom:20px">
+              <table style="width:100%;border-collapse:collapse;font-size:.96em;min-width:460px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">pH</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">কত অংশ বিষাক্ত NH₃ (≈৩০°C)</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">TAN ২ ppm হলে বিষাক্ত অংশ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৭.০</td><td style="padding:12px 16px">১%-এরও কম</td><td style="padding:12px 16px;color:var(--bp-muted2)">≈ ০.০১৬ ppm — নিরাপদ</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৭.৫</td><td style="padding:12px 16px">প্রায় ২.৫%</td><td style="padding:12px 16px;color:var(--bp-muted2)">≈ ০.০৫ ppm — সতর্ক হোন</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৮.০</td><td style="padding:12px 16px">প্রায় ৭.৫%</td><td style="padding:12px 16px;color:var(--bp-muted2)">≈ ০.১৫ ppm — বিপদসীমা</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৮.৫</td><td style="padding:12px 16px">প্রায় ১৮–২০%</td><td style="padding:12px 16px;color:var(--bp-redtext)">≈ ০.৩৮ ppm — প্রাণঘাতী</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">৯.০</td><td style="padding:12px 16px">প্রায় ৪৫%</td><td style="padding:12px 16px;color:var(--bp-redtext)">≈ ০.৯ ppm — দ্রুত মড়ক</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p style="margin:0 0 18px;font-size:.92em;color:var(--bp-muted)">সংখ্যাগুলো আনুমানিক। তাপমাত্রা বাড়লে বিষাক্ত অংশও কিছুটা বাড়ে — একই pH-এ ২৬°C-এর চেয়ে ৩০°C পানিতে NH₃ বেশি থাকে।</p>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-redtext);margin-bottom:6px">যে ভুলটা সবচেয়ে বেশি হয়</strong>
+              <span>চাষি অ্যামোনিয়া মাপলেন — ২ ppm। ভাবলেন "একটু বেশি, কাল দেখব"। কিন্তু pH না মেপে এই সিদ্ধান্ত নেওয়া যায় না। pH ৭-এ ২ ppm মোটামুটি সহনীয়; pH ৮.৫-এ একই ২ ppm রাতারাতি ট্যাংক খালি করে দিতে পারে। <strong>অ্যামোনিয়া আর pH সবসময় একসাথে মাপুন — একটা ছাড়া আরেকটার কোনো মানে নেই।</strong></span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৩</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ময়লা পরিষ্কারের তিনটা রাস্তা</h2>
+            </div>
+            <p style="margin:0 0 20px">পানি থেকে অ্যামোনিয়া সরানোর প্রকৃতিতে তিনটা উপায় আছে। বায়োফ্লক আসলে এর একটাকে ইচ্ছে করে বেছে নেওয়া — এই কথাটা বুঝলে সব পরিষ্কার হয়ে যায়।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">রাস্তা ১ — শৈবাল (সবুজ পানি)</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">রোদে শৈবাল জন্মে অ্যামোনিয়া টেনে নেয়। খরচ শূন্য। কিন্তু রাতে শৈবাল উল্টো অক্সিজেন খায়, দিনে-রাতে pH লাফায়, আর মেঘলা কয়েক দিনেই পুরো শৈবাল মরে গিয়ে ট্যাংক বিষাক্ত করে দিতে পারে। <strong>ঢাকা/শেড দেওয়া ট্যাংকে এই রাস্তা ভরসাযোগ্য নয়।</strong></span>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">রাস্তা ২ — নাইট্রিফাইং ব্যাকটেরিয়া (ধীর কিন্তু পাকা)</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">এরা অ্যামোনিয়াকে ধাপে ধাপে নাইট্রাইট, তারপর নাইট্রেটে বদলায়। বাইরে থেকে কিছু দিতে হয় না। কিন্তু এরা <strong>খুব ধীরে বাড়ে</strong> — জাঁকিয়ে বসতে ৩ থেকে ৬ সপ্তাহ লাগে। আর প্রতি গ্রাম নাইট্রোজেন প্রসেস করতে প্রায় ৭ গ্রাম ক্ষারত্ব খেয়ে ফেলে, ফলে pH নামতে থাকে।</span>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px;border-left:3px solid var(--bp-teal)">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:6px">রাস্তা ৩ — হেটারোট্রফিক ব্যাকটেরিয়া (বায়োফ্লক এটাই)</strong>
+                <span style="font-size:.95em;color:var(--bp-muted2)">কার্বন (চিটাগুড়) দিলে এরা <strong>কয়েক ঘণ্টার মধ্যে</strong> অ্যামোনিয়া টেনে নিজেদের শরীর বানায়। প্রায় ১০ গুণ দ্রুত, আর নাইট্রোজেনটা প্রোটিন হয়ে মাছের কাজে লাগে। দাম? বেশি অক্সিজেন লাগে, বেশি ফ্লক জমে, আর রোজ কার্বন দিতেই হয় — একদিন ভুললে চক্র থেমে যায়।</span>
+              </div>
+            </div>
+            <p style="margin:0">বাস্তবে পরিণত ট্যাংকে <strong style="color:var(--bp-head)">দুই আর তিন নম্বর রাস্তা একসাথে চলে</strong>। শুরুর দিকে হেটারোট্রফিকরা কাজ সামলায়, ১–২ মাস পর নাইট্রিফাইং দলও শক্ত হয়ে বসে। তখন চিটাগুড়ের পরিমাণ কিছুটা কমানো যায় — এটাই পরিণত বায়োফ্লকের লক্ষণ।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৪</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">নাইট্রোজেন চক্র ও নাইট্রাইটের গোপন খুন</h2>
+            </div>
+            <p style="margin:0 0 24px">নাইট্রিফাইং রাস্তাটা দুই ধাপে হয়, আর মাঝের ধাপটাই সবচেয়ে বিপজ্জনক:</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:24px">
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">১</span>
+                <span><strong style="display:block;color:var(--bp-head);margin-bottom:4px">অ্যামোনিয়া → নাইট্রাইট</strong><span style="font-size:.95em;color:var(--bp-muted2)">Nitrosomonas জাতের ব্যাকটেরিয়া এই কাজ করে। প্রথম দলটা মোটামুটি তাড়াতাড়ি জন্মে।</span></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-red);color:var(--bp-red);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">২</span>
+                <span><strong style="display:block;color:var(--bp-head);margin-bottom:4px">নাইট্রাইট → নাইট্রেট</strong><span style="font-size:.95em;color:var(--bp-muted2)">Nitrobacter জাতের ব্যাকটেরিয়া। এরা <strong>আরও ধীরে</strong> জন্মে। তাই সাইক্লিংয়ের মাঝামাঝি সময়ে নাইট্রাইট জমে গিয়ে চূড়ায় ওঠে — অ্যামোনিয়া নেমে গেছে দেখে চাষি নিশ্চিন্ত হন, আর তখনই মাছ মরতে শুরু করে।</span></span>
+              </div>
+            </div>
+            <p style="margin:0 0 18px"><strong style="color:var(--bp-head)">নাইট্রাইট কী করে?</strong> মাছের ফুলকা দিয়ে ঢুকে রক্তের হিমোগ্লোবিনকে নষ্ট করে দেয় — রক্ত বাদামি হয়ে যায় এবং অক্সিজেন বহন করতে পারে না। একে বলে <em>ব্রাউন ব্লাড ডিজিজ</em> বা মেথিমোগ্লোবিনেমিয়া। মাছ পানির উপরে ভেসে হাঁপায়, অথচ পানিতে অক্সিজেন ঠিকই আছে — কারণ সমস্যা পানিতে নয়, মাছের রক্তে।</p>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px;margin-bottom:20px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">লবণ কেন দেওয়া হয় — এতদিনে উত্তরটা</strong>
+              <span>সাধারণ লবণের ক্লোরাইড অংশটা ফুলকার একই দরজা দিয়ে ঢোকে যেটা দিয়ে নাইট্রাইট ঢুকতে চায়। ক্লোরাইড বেশি থাকলে সে দরজা আটকে রাখে, নাইট্রাইট আর রক্তে পৌঁছাতে পারে না। গবেষণায় পরামর্শ — পানিতে <strong>ক্লোরাইড : নাইট্রাইট অনুপাত অন্তত ৬:১</strong> রাখা (নিরাপত্তার জন্য ১০:১ ভালো)। এই কারণেই সাইক্লিংয়ের সময় কাঁচা লবণ দেওয়া হয়; এটা কুসংস্কার নয়, এটা বিজ্ঞান। মনে রাখবেন — <strong>আয়োডিনযুক্ত লবণ নয়</strong>, আয়োডিন উপকারী ব্যাকটেরিয়া মেরে ফেলে।</span>
+            </div>
+            <p style="margin:0"><strong style="color:var(--bp-head)">নাইট্রেট</strong> চক্রের শেষ ধাপ — অ্যামোনিয়া বা নাইট্রাইটের তুলনায় অনেক কম ক্ষতিকর। কিন্তু পানি না বদলালে এটা ধীরে ধীরে জমতে থাকে। এই কারণেই পুরো চক্রেও অন্তত ১০–১৫% পানি বদলাতে হয়, আর এই জমা নাইট্রেটই অ্যাকোয়াপনিক্সে (মাছ + সবজি) গাছের সার হিসেবে কাজে লাগে।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৫</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">C:N অনুপাতের পুরো হিসাব — কাগজ-কলমে</h2>
+            </div>
+            <p style="margin:0 0 18px">অধ্যায় ০১-এ হাতের নিয়ম দেওয়া হয়েছিল: প্রতি ১ কেজি খাবারে ০.৫–০.৬ কেজি চিটাগুড়। এবার দেখুন সংখ্যাটা কোথা থেকে এলো — একবার বুঝলে যেকোনো ট্যাংক, যেকোনো খাবারের জন্য নিজে হিসাব করতে পারবেন।</p>
+            <p style="margin:0 0 20px">সেই ৫০০ লিটারের ট্যাংক, দিনে ১৫০ গ্রাম খাবার (৩০% প্রোটিন), লক্ষ্য C:N = ১৫:১:</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:22px">
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:18px 22px;align-items:flex-start">
+                <span style="flex:none;width:30px;height:30px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">১</span>
+                <span style="font-size:.97em"><strong style="color:var(--bp-head)">পানিতে যাওয়া নাইট্রোজেন</strong> = ১৫০ গ্রাম × ০.৩০ × ০.১৬ × ০.৭৫ = <strong style="color:var(--bp-teal)">৫.৪ গ্রাম N</strong></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:18px 22px;align-items:flex-start">
+                <span style="flex:none;width:30px;height:30px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">২</span>
+                <span style="font-size:.97em"><strong style="color:var(--bp-head)">দরকারি মোট কার্বন</strong> = ৫.৪ × ১৫ = <strong style="color:var(--bp-teal)">৮১ গ্রাম C</strong></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:18px 22px;align-items:flex-start">
+                <span style="flex:none;width:30px;height:30px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৩</span>
+                <span style="font-size:.97em"><strong style="color:var(--bp-head)">খাবার নিজেই কিছু কার্বন দেয়</strong> — খাবারের প্রায় ৫০% কার্বন ধরলে ১৫০ গ্রামে ≈ ৭৫ গ্রাম। এর মধ্যে না-খাওয়া অংশ পানিতে যায়, ধরুন <strong style="color:var(--bp-teal)">≈ ৪০ গ্রাম C</strong></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:18px 22px;align-items:flex-start">
+                <span style="flex:none;width:30px;height:30px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৪</span>
+                <span style="font-size:.97em"><strong style="color:var(--bp-head)">বাইরে থেকে দরকার</strong> = ৮১ − ৪০ = <strong style="color:var(--bp-teal)">৪১ গ্রাম C</strong></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:18px 22px;align-items:flex-start;border-left:3px solid var(--bp-amber)">
+                <span style="flex:none;width:30px;height:30px;border:2px solid var(--bp-amber);color:var(--bp-amber);font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center">৫</span>
+                <span style="font-size:.97em"><strong style="color:var(--bp-head)">চিটাগুড়ে কার্বন প্রায় ৩২%</strong> → দরকারি চিটাগুড় = ৪১ ÷ ০.৩২ ≈ <strong style="color:var(--bp-head);font-size:1.08em">১২৮ গ্রাম</strong><br><span style="color:var(--bp-muted2)">অর্থাৎ ১৫০ গ্রাম খাবারের জন্য ≈ ১৩০ গ্রাম চিটাগুড় — ঠিক সেই <strong>০.৫–০.৬ কেজি প্রতি কেজি</strong> নিয়মটাই।</span></span>
+              </div>
+            </div>
+            <p style="margin:0 0 20px;font-size:.93em;color:var(--bp-muted)">চিটাগুড়ের কার্বনের পরিমাণ ব্র্যান্ড ও গুণ ভেদে ৩০–৫০% হতে পারে। তাই এটা নিখুঁত অঙ্ক নয় — শুরুর বিন্দু। আসল উত্তর দেবে আপনার টেস্ট কিট।</p>
+            <div style="background:var(--bp-deep);color:#ffffff;padding:26px 30px;margin-bottom:20px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:12px">জরুরি ডোজ — অ্যামোনিয়া হঠাৎ বেড়ে গেলে</div>
+              <p style="margin:0 0 12px;color:var(--bp-ondeep);font-size:.97em;line-height:1.8">রোজকার ডোজ খাবারের হিসাবে। কিন্তু TAN ১ ppm ছাড়িয়ে গেলে সরাসরি পানির অ্যামোনিয়া ধরে হিসাব করতে হয়, C:N ৬:১ ধরে — এতে ব্যাকটেরিয়া দ্রুত কাজে নামে।</p>
+              <p style="margin:0;color:#ffffff;font-size:.97em;line-height:1.9"><strong style="color:var(--bp-amberlt)">উদাহরণ:</strong> ৫০০ লিটারে TAN ২ ppm → মোট TAN = ২ × ৫০০ ÷ ১০০০ = <strong>১ গ্রাম</strong> → দরকারি কার্বন = ১ × ৬ = <strong>৬ গ্রাম</strong> → চিটাগুড় = ৬ ÷ ০.৩২ ≈ <strong>১৯ গ্রাম</strong> (প্রায় দেড় চা-চামচ)। গরম পানিতে গুলে ধীরে ধীরে ছড়িয়ে দিন, তারপর ৬–১২ ঘণ্টা পর আবার মাপুন।</p>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-redtext);margin-bottom:6px">বেশি চিটাগুড় = ভালো — এই ধারণা মারাত্মক</strong>
+              <span>অতিরিক্ত কার্বন দিলে ব্যাকটেরিয়া খুব দ্রুত বাড়ে এবং <strong>রাতারাতি পানির সব অক্সিজেন খেয়ে ফেলে</strong>। ভোরে উঠে দেখবেন মাছ মরে ভাসছে। চিটাগুড় ওষুধ নয়, খাবার — মেপে দিতে হয়। সন্দেহ হলে কম দিন, তারপর মেপে বাড়ান।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৬</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ক্ষারত্ব — যে সংখ্যাটা বেশিরভাগ চাষি ভুলে যান</h2>
+            </div>
+            <p style="margin:0 0 18px">বাংলাদেশে বায়োফ্লক ব্যর্থ হওয়ার একটা বড় অথচ কম আলোচিত কারণ এটা। চাষি pH মাপেন, কিন্তু <strong style="color:var(--bp-head)">ক্ষারত্ব</strong> মাপেন না।</p>
+            <p style="margin:0 0 18px">ক্ষারত্ব হলো পানির "ধাক্কা সামলানোর ক্ষমতা"। এটা একটা বালিশের মতো — pH-কে হঠাৎ ওঠানামা থেকে বাঁচায়। ব্যাকটেরিয়া অ্যামোনিয়া প্রসেস করার সময় এই বালিশটা <strong style="color:var(--bp-head)">খেয়ে ফেলে</strong>।</p>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-teal);padding:24px 28px;margin-bottom:20px">
+              <div style="display:grid;gap:14px;font-size:.97em">
+                <div><strong style="color:var(--bp-head)">নাইট্রিফাইং রাস্তায়:</strong> প্রতি ১ গ্রাম নাইট্রোজেনে প্রায় <strong>৭ গ্রাম</strong> ক্ষারত্ব খরচ হয়</div>
+                <div><strong style="color:var(--bp-head)">হেটারোট্রফিক (বায়োফ্লক) রাস্তায়:</strong> প্রায় <strong>৩.৬ গ্রাম</strong> — প্রায় অর্ধেক</div>
+                <div style="border-top:1px solid var(--bp-line);padding-top:14px;color:var(--bp-muted2)">এটাও বায়োফ্লকের একটা বড় সুবিধা: pH কম নামে। কিন্তু "কম নামে" মানে "নামে না" নয়।</div>
+              </div>
+            </div>
+            <p style="margin:0 0 18px">আমাদের ৫০০ লিটারের উদাহরণে দিনে ৫.৪ গ্রাম নাইট্রোজেন। সম্পূর্ণ নাইট্রিফিকেশন হলে দিনে প্রায় ৩৮ গ্রাম ক্ষারত্ব চলে যাবে — মানে <strong style="color:var(--bp-head)">দিনে প্রায় ৭৫ mg/L</strong>। কয়েক দিনেই বালিশ ফুরিয়ে যায়, তারপর pH ধপ করে নামে (pH crash) এবং পুরো ব্যাকটেরিয়ার দল অকেজো হয়ে পড়ে।</p>
+            <div style="overflow-x:auto;margin-bottom:20px">
+              <table style="width:100%;border-collapse:collapse;font-size:.96em;min-width:440px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">ক্ষারত্ব (mg/L CaCO₃)</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">অবস্থা</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">কী করবেন</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-redtext)">৭৫-এর নিচে</td><td style="padding:12px 16px">বিপদ — pH যেকোনো সময় ধসে পড়বে</td><td style="padding:12px 16px;color:var(--bp-muted2)">এখনই বেকিং সোডা দিন</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">১০০–১৫০</td><td style="padding:12px 16px">গ্রহণযোগ্য</td><td style="padding:12px 16px;color:var(--bp-muted2)">সপ্তাহে অন্তত একবার মাপুন</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">১৫০–২৫০</td><td style="padding:12px 16px">আদর্শ — ফ্লক ও নাইট্রিফাইং দুটোই খুশি</td><td style="padding:12px 16px;color:var(--bp-muted2)">এই জায়গায় ধরে রাখুন</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:8px">কী দিয়ে ঠিক করবেন</strong>
+              <div style="display:grid;gap:10px;font-size:.96em">
+                <span><strong style="color:var(--bp-head)">বেকিং সোডা (সোডিয়াম বাইকার্বনেট):</strong> সবচেয়ে নিরাপদ ও দ্রুত। pH-কে হঠাৎ বেশি উপরে তোলে না। ছোট ট্যাংকের জন্য সেরা পছন্দ। অল্প অল্প করে দিন — ৫০০ লিটারে এক চা-চামচ থেকে শুরু।</span>
+                <span><strong style="color:var(--bp-head)">কৃষি চুন (ক্যালসিয়াম কার্বনেট):</strong> সস্তা, ধীরে কাজ করে, পুকুরে বহু ব্যবহৃত। বায়োফ্লকে চলবে, তবে পানি শক্ত (hard) করে ফেলে।</span>
+                <span style="color:var(--bp-redtext)"><strong>সতর্কতা:</strong> পোড়া চুন বা হাইড্রেটেড লাইম ছোট ট্যাংকে ব্যবহার করবেন না — pH এক ঝটকায় ৯-এর উপরে উঠে যেতে পারে, আর তখন অ্যামোনিয়া মুহূর্তে বিষে পরিণত হয়।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৭</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ফ্লক জিনিসটা আসলে কী দিয়ে তৈরি</h2>
+            </div>
+            <p style="margin:0 0 18px">ফ্লক শুধু ব্যাকটেরিয়া নয় — এটা একটা ছোট বাস্তুতন্ত্র। এক ফোঁটা ফ্লক-পানি মাইক্রোস্কোপে দেখলে পাবেন ব্যাকটেরিয়া, শৈবাল, প্রোটোজোয়া, রোটিফার, মরা খাবারের কণা — সব একসাথে আঠালো জেলির মতো পদার্থে (ব্যাকটেরিয়ার নিজের তৈরি) জড়ানো। এই আঠাটাই কণাগুলোকে জমাট বাঁধিয়ে রাখে।</p>
+            <p style="margin:0 0 20px"><strong style="color:var(--bp-head)">পুষ্টিগুণ কেমন?</strong> গবেষণাগুলোতে শুকনো ফ্লকে প্রোটিন পাওয়া গেছে ২৫% থেকে ৫০% পর্যন্ত — কার্বনের উৎস, আলো ও ব্যবস্থাপনার উপর নির্ভর করে অনেক কমবেশি হয়। চর্বি (lipid) সাধারণত খুব কম, ২–৮%, আর ছাই (ash) বেশি।</p>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">তাই বাস্তব কথাটা হলো</strong>
+              <span>ফ্লক <strong>বাড়তি খাবার</strong>, <strong>পুরো খাবার নয়</strong>। ইউটিউবে অনেকে বলেন "ফ্লক হলে আর ফিড লাগে না" — এটা মিথ্যা। ফ্লক খাবারের খরচ ২০–৩০% কমাতে পারে, শূন্যে নামাতে পারে না। ফ্লকে জরুরি চর্বি (EPA/DHA) নেই, তাই ভালো মানের ভাসমান ফিড চালিয়ে যেতেই হবে।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৮</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কত ফ্লক দরকার — আর বেশি হলে কী হয়</h2>
+            </div>
+            <p style="margin:0 0 20px">ফ্লক মাপা হয় Imhoff cone দিয়ে: ১ লিটার পানি নিয়ে ৩০ মিনিট থিতিয়ে রেখে নিচে জমা অংশ পড়া হয়। কোন নেই? একটা স্বচ্ছ ১ লিটারের বোতল কেটে উল্টো ঝুলিয়েও আন্দাজ করা যায়।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:18px 22px"><strong style="color:var(--bp-redtext)">১০ মিলি/লিটারের নিচে</strong> — ফ্লক এখনো তৈরি হয়নি বা ভেঙে গেছে। অ্যামোনিয়া বাড়ার ঝুঁকি। কার্বন বাড়ান।</div>
+              <div style="background:var(--bp-card);padding:18px 22px;border-left:3px solid var(--bp-teal)"><strong style="color:var(--bp-head)">১৫–৩০ মিলি/লিটার</strong> — আদর্শ। এখানেই রাখার চেষ্টা করুন।</div>
+              <div style="background:var(--bp-card);padding:18px 22px"><strong style="color:var(--bp-head)">৩০–৫০ মিলি/লিটার</strong> — সহনীয় সীমার শেষ প্রান্ত। নজরে রাখুন, কার্বন কমান।</div>
+              <div style="background:var(--bp-card);padding:18px 22px"><strong style="color:var(--bp-redtext)">৫০ মিলি/লিটারের উপরে</strong> — বিপদ। ফ্লক সরাতে হবে।</div>
+            </div>
+            <p style="margin:0 0 18px"><strong style="color:var(--bp-head)">বেশি ফ্লকের তিনটা ক্ষতি:</strong> এক — ফ্লকের ব্যাকটেরিয়া নিজেরাই প্রচুর অক্সিজেন খায়, মাছের ভাগে কম পড়ে। দুই — ঘন কণা মাছের ফুলকায় আটকে শ্বাস নিতে কষ্ট দেয়। তিন — তলায় জমে অক্সিজেনহীন (পচা) স্তর তৈরি করে, সেখান থেকে বিষাক্ত গ্যাস ও দুর্গন্ধ আসে।</p>
+            <p style="margin:0 0 18px"><strong style="color:var(--bp-head)">কীভাবে কমাবেন:</strong> সবচেয়ে সহজ উপায় — একটা বালতি বা ড্রামে ট্যাংকের পানি নিয়ে আধা ঘণ্টা বসিয়ে রাখুন (settling)। নিচে ফ্লক জমবে, উপরের পরিষ্কার পানি আবার ট্যাংকে ফেরত দিন, নিচের ঘন অংশ ফেলে দিন বা গাছে দিন। এতে পানি নষ্ট হয় কম, ফ্লক কমে।</p>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-redtext);margin-bottom:6px">একবারে সব ফ্লক সরাবেন না</strong>
+              <span>হঠাৎ বেশি ফ্লক সরিয়ে ফেললে ব্যাকটেরিয়ার দলটাই ভেঙে যায়, ফলে অ্যামোনিয়া লাফ দিয়ে ওঠে এবং রোগজীবাণু জায়গা পেয়ে যায়। একবারে ২০–৩০ শতাংশের বেশি নয় — ধীরে, কয়েক দিনে।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৯</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">অক্সিজেনের নীরব হিসাব</h2>
+            </div>
+            <p style="margin:0 0 18px">নতুন চাষি ভাবেন এয়ার পাম্প চলছে <em>মাছের জন্য</em>। আসলে ট্যাংকের অক্সিজেনের বড় অংশ খায় <strong style="color:var(--bp-head)">ব্যাকটেরিয়া</strong>, মাছ নয়।</p>
+            <p style="margin:0 0 20px">অ্যামোনিয়ার প্রতি ১ গ্রাম নাইট্রোজেন প্রসেস করতে ব্যাকটেরিয়ার প্রায় <strong style="color:var(--bp-head)">৪.৫ গ্রামের বেশি অক্সিজেন</strong> লাগে। আমাদের ৫০০ লিটার ট্যাংকে দিনে ৫.৪ গ্রাম নাইট্রোজেন মানে শুধু ময়লা পরিষ্কারের জন্যই দিনে প্রায় ২৫ গ্রাম অক্সিজেন — মাছের নিজের শ্বাসের হিসাব এর <em>বাইরে</em>।</p>
+            <div style="background:var(--bp-deep);color:#ffffff;padding:26px 30px;margin-bottom:20px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:12px">এখান থেকে তিনটা সিদ্ধান্ত</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.97em">এয়ারেশনে কম দেওয়া মানে পুরো সিস্টেমে কম দেওয়া। পাম্প কেনার সময় হিসাবের চেয়ে <strong style="color:#ffffff">বড়</strong> নিন।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.97em">DO ৫ ppm-এর নিচে নামলে ব্যাকটেরিয়া ঠিকভাবে কাজ করে না — শুধু মাছ নয়, পুরো পরিষ্কার-প্রক্রিয়াই থেমে যায়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.97em">সবচেয়ে কম অক্সিজেন থাকে <strong style="color:#ffffff">ভোর ৪–৬টায়</strong>। ঝুঁকি পরখ করতে হলে ওই সময়েই মাপুন, দুপুরে নয়।</span></div>
+              </div>
+            </div>
+            <p style="margin:0">বাতাসের বুদবুদের আরেকটা কাজ আছে — ফ্লককে ভাসিয়ে রাখা। বাতাস বন্ধ হলে কয়েক ঘণ্টার মধ্যেই ফ্লক তলায় জমে পচতে শুরু করে। বিদ্যুৎ ফিরে এসে পাম্প চালু হলে সেই পচা স্তর আবার পানিতে মিশে যায় — আর তখন এক ধাক্কায় অ্যামোনিয়া ও অক্সিজেন-সংকট দুটোই আসে। এই কারণেই দীর্ঘ লোডশেডিংয়ের পর মাছ মরে, শুধু অক্সিজেনের অভাবে নয়।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১০</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">প্রথম ৩০ দিনের সময়রেখা</h2>
+            </div>
+            <p style="margin:0 0 24px">এই ছকটা মনে গেঁথে নিন। কোন দিনে কী দেখার কথা তা জানা থাকলে আপনি আতঙ্কিত হবেন না, আর আসল বিপদও চিনতে পারবেন।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal);margin-bottom:22px">
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:74px;font-size:.86em;font-weight:700;color:var(--bp-teal);padding-top:2px">দিন ১–৩</span>
+                <span style="font-size:.96em"><strong style="display:block;color:var(--bp-head);margin-bottom:3px">সব শূন্য, কিছুই হচ্ছে না মনে হবে</strong><span style="color:var(--bp-muted2)">পানি পরিষ্কার। ধৈর্য ধরুন — ব্যাকটেরিয়া তখন জন্ম নিচ্ছে।</span></span>
+              </div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:74px;font-size:.86em;font-weight:700;color:var(--bp-teal);padding-top:2px">দিন ৩–১০</span>
+                <span style="font-size:.96em"><strong style="display:block;color:var(--bp-head);margin-bottom:3px">অ্যামোনিয়ার চূড়া</strong><span style="color:var(--bp-muted2)">TAN ২–৫ ppm পর্যন্ত উঠতে পারে। এই সময়ে <strong>মাছ ছাড়বেন না</strong>। কার্বন ঠিকমতো দিলে এটা নামতে শুরু করবে।</span></span>
+              </div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:20px 22px;align-items:flex-start;border-left:3px solid var(--bp-red)">
+                <span style="flex:none;width:74px;font-size:.86em;font-weight:700;color:var(--bp-red);padding-top:2px">দিন ১০–২০</span>
+                <span style="font-size:.96em"><strong style="display:block;color:var(--bp-head);margin-bottom:3px">নাইট্রাইটের চূড়া — সবচেয়ে বিপজ্জনক জানালা</strong><span style="color:var(--bp-muted2)">অ্যামোনিয়া নেমে গেছে দেখে অনেকে এখানেই মাছ ছেড়ে দেন এবং হারান। নাইট্রাইট শূন্যের কাছে না নামা পর্যন্ত অপেক্ষা করুন।</span></span>
+              </div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:74px;font-size:.86em;font-weight:700;color:var(--bp-teal);padding-top:2px">দিন ১৫–২৫</span>
+                <span style="font-size:.96em"><strong style="display:block;color:var(--bp-head);margin-bottom:3px">ফ্লক দেখা দিতে শুরু করে</strong><span style="color:var(--bp-muted2)">পানি হালকা বাদামি-ঘোলা হয়। Imhoff cone-এ ১০–১৫ মিলি জমা পড়তে শুরু করে। ক্ষারত্ব নামতে থাকে — এখানেই বেকিং সোডা লাগবে।</span></span>
+              </div>
+              <div style="display:flex;gap:16px;background:var(--bp-card);padding:20px 22px;align-items:flex-start;border-left:3px solid var(--bp-teal)">
+                <span style="flex:none;width:74px;font-size:.86em;font-weight:700;color:var(--bp-teal);padding-top:2px">দিন ২০–৩০</span>
+                <span style="font-size:.96em"><strong style="display:block;color:var(--bp-head);margin-bottom:3px">সবুজ সংকেত</strong><span style="color:var(--bp-muted2)">অ্যামোনিয়া ও নাইট্রাইট টানা ৩ দিন প্রায় শূন্য, ফ্লক ১৫–৩০ মিলি/লিটার, ক্ষারত্ব ১০০-এর উপরে। <strong>এখন মাছ ছাড়ুন</strong> — অল্প অল্প করে, একবারে নয়।</span></span>
+              </div>
+            </div>
+            <p style="margin:0;font-size:.93em;color:var(--bp-muted)">তাপমাত্রা কম থাকলে (শীতকালে) পুরো প্রক্রিয়াটা ধীর হয় — ৩০ দিনের জায়গায় ৪৫ দিনও লাগতে পারে। তাড়াহুড়ো করে ক্যালেন্ডার দেখে মাছ ছাড়বেন না, টেস্ট কিট দেখে ছাড়ুন।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">পাঁচটা ভুল ধারণা</h2>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">"পানি ঘোলা মানেই ফ্লক তৈরি হয়েছে"</strong><span style="font-size:.95em;color:var(--bp-muted2)">ঘোলা পানি মাটি, শৈবাল বা না-খাওয়া খাবারের গুঁড়োও হতে পারে। ফ্লকের প্রমাণ একটাই — cone-এ থিতিয়ে মাপা, আর অ্যামোনিয়া-নাইট্রাইট শূন্যের কাছে থাকা।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">"প্রোবায়োটিক একবার দিলেই হলো"</strong><span style="font-size:.95em;color:var(--bp-muted2)">প্রোবায়োটিক বীজ মাত্র। বীজ বাঁচাতে খাবার (কার্বন) ও বাতাস লাগে প্রতিদিন। কার্বন বন্ধ করলে দল ভেঙে যায়, যত দামি প্রোবায়োটিকই দিন না কেন।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">"অ্যামোনিয়া শূন্য মানেই নিরাপদ"</strong><span style="font-size:.95em;color:var(--bp-muted2)">অ্যামোনিয়া শূন্য অথচ নাইট্রাইট ২ ppm — মাছ ঠিকই মরবে। তিনটা (অ্যামোনিয়া, নাইট্রাইট, pH) একসাথে না দেখলে ছবিটা অসম্পূর্ণ।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">"বেশি মাছ ছাড়লে বেশি লাভ"</strong><span style="font-size:.95em;color:var(--bp-muted2)">বেশি মাছ = বেশি খাবার = বেশি অ্যামোনিয়া = বেশি অক্সিজেনের চাহিদা। গবেষণায় প্রতি ঘনমিটারে ২০০-এর বেশি কই ছাড়লে বেঁচে থাকার হার কমে যায়। ঘনত্ব বাড়ানোর আগে এয়ারেশন বাড়াতে হয়।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">"টেস্ট কিট বিলাসিতা, অভিজ্ঞতা দিয়ে বোঝা যায়"</strong><span style="font-size:.95em;color:var(--bp-muted2)">অ্যামোনিয়া, নাইট্রাইট আর ক্ষারত্ব — তিনটাই বর্ণহীন, গন্ধহীন। চোখে দেখে বোঝার কোনো উপায় নেই। যখন চোখে দেখা যায় (মাছ হাঁপাচ্ছে), তখন অনেক দেরি হয়ে গেছে।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">নতুন শব্দগুলো</h2>
+            </div>
+            <div style="display:grid;gap:1px;background:var(--bp-line);border-top:3px solid var(--bp-teal)">
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">TAN</strong> — Total Ammonia Nitrogen, মোট অ্যামোনিয়া। টেস্ট কিট এটাই দেখায়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">NH₃ / NH₄⁺</strong> — বিষাক্ত মুক্ত অ্যামোনিয়া / নিরীহ অ্যামোনিয়াম। pH ঠিক করে দেয় কোনটা কতটা।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">নাইট্রাইট (NO₂⁻)</strong> — চক্রের মাঝের ধাপ। রক্তে অক্সিজেন বহন বন্ধ করে দেয়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">নাইট্রেট (NO₃⁻)</strong> — চক্রের শেষ ধাপ। তুলনামূলক নিরীহ, কিন্তু জমতে থাকে।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">ক্ষারত্ব (Alkalinity)</strong> — pH ধরে রাখার ক্ষমতা। mg/L CaCO₃-তে মাপা হয়। ১৫০–২৫০ আদর্শ।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">হেটারোট্রফিক ব্যাকটেরিয়া</strong> — কার্বন খেয়ে অ্যামোনিয়া টেনে নেয়। বায়োফ্লকের প্রধান কর্মী।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">নাইট্রিফাইং ব্যাকটেরিয়া</strong> — অ্যামোনিয়াকে নাইট্রাইট ও নাইট্রেটে বদলায়। ধীরে জন্মে, কিন্তু টেকসই।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">TSS</strong> — Total Suspended Solids, পানিতে ভাসমান মোট কঠিন পদার্থ। ফ্লকের আরেক মাপ।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">Imhoff cone</strong> — কোণাকৃতি স্বচ্ছ পাত্র, ৩০ মিনিটে কত ফ্লক থিতিয়ে পড়ে তা মাপে।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">pH crash</strong> — ক্ষারত্ব ফুরিয়ে গিয়ে হঠাৎ pH ধপ করে নেমে যাওয়া। ব্যাকটেরিয়া অকেজো হয়ে যায়।</div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:8px">
+            <div data-block="1" style="background:var(--bp-deep);padding:32px 34px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:16px">এই অধ্যায়ে যা শিখলেন</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">বিষ বাইরে থেকে আসে না — আপনি খাবারের সাথে ঢালেন। খাবার বাড়লে কার্বনও বাড়াতে হবে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">pH ছাড়া অ্যামোনিয়ার পাঠ অর্থহীন। pH ৮.৫-এ ২ ppm প্রাণঘাতী, pH ৭-এ প্রায় নিরাপদ।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">নাইট্রাইটের চূড়া (দিন ১০–২০) সবচেয়ে বিপজ্জনক সময়। কাঁচা লবণের ক্লোরাইড এখানেই রক্ষা করে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">C:N-এর অঙ্কটা সহজ: খাবার × ০.৩ × ০.১৬ × ০.৭৫ = নাইট্রোজেন; × ১৫ = কার্বন; ÷ ০.৩২ = চিটাগুড়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">ক্ষারত্ব ভুলবেন না। ১০০-এর নিচে নামলে pH ধসে পুরো সিস্টেম থেমে যায়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">ফ্লক বাড়তি খাবার, পুরো খাবার নয়। ১৫–৩০ মিলি/লিটারে ধরে রাখুন, বেশি হলে ধীরে সরান।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">অক্সিজেনের বড় অংশ ব্যাকটেরিয়া খায়। পাম্প সবসময় হিসাবের চেয়ে বড় নিন।</span></div>
+              </div>
+            </div>
+          </section>
+`,o=e(),s=`02-panir-biggan`,c=`অধ্যায় ০১-এ জেনেছেন বায়োফ্লক কী। এই অধ্যায়ে জানবেন <em>কেন</em> কাজ করে। ভয় পাবেন না — একটাও কঠিন সূত্র মুখস্থ করতে হবে না। শুধু পাঁচটা জিনিস বুঝলেই আপনি ট্যাংকের ভেতরের পুরো খেলাটা পড়তে পারবেন।`;function l(){let e=t(s),l=n(s);return(0,o.jsx)(i,{id:e.id,title:e.title,lead:c,partNum:l.num,partTitle:l.title,accent:l.accent,children:(0,o.jsx)(r,{html:a})})}export{l as default};

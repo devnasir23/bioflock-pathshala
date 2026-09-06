@@ -1,0 +1,263 @@
+import{i as e,n as t,r as n}from"./index-Sfibn48Y.js";import{n as r,t as i}from"./ChapterShell-HFwY9Orh.js";var a=`<div data-block="1" style="background:var(--bp-soft);border-top:3px solid var(--bp-red);padding:26px 30px 28px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-redtext);margin-bottom:10px">পুরো অধ্যায়টা এক লাইনে</div>
+            <p style="margin:0;font-size:1.1em;font-weight:600;color:var(--bp-head);line-height:1.75">বায়োফ্লকের পুরো দক্ষতা দুটো অভ্যাসে — <strong>খাবার মাপে দেওয়া</strong> আর <strong>সাতটা সংখ্যা নিয়ম করে মাপা</strong>। যে খামারি দিনে দশ মিনিট খাতায় লেখে, তার মাছ মরে না; যে চোখের আন্দাজে চালায়, তার প্রতি বছর একটা চক্র যায়।</p>
+          </div>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">দিনের রুটিন</h2>
+            </div>
+            <p style="margin:0 0 20px">সব মিলিয়ে দিনে <strong style="color:var(--bp-head)">দেড় থেকে দুই ঘণ্টা</strong> — কিন্তু ভাগ করা চার বেলায়। সবচেয়ে গুরুত্বপূর্ণ বেলা ভোরবেলা, কারণ রাতভর অক্সিজেন কমে সকালেই সবচেয়ে নিচে থাকে।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:640px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">সময়</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কাজ</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কেন</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ভোর ৬টা</td><td style="padding:11px 14px">DO ও তাপমাত্রা মাপুন, মরা মাছ তুলুন, মাছের চলাফেরা দেখুন। তারপর প্রথম খাবার।</td><td style="padding:11px 14px">দিনের সবচেয়ে কম অক্সিজেন এখনই। DO ৪-এর নিচে থাকলে খাবার পিছিয়ে দিন।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">সকাল ১০টা</td><td style="padding:11px 14px">দ্বিতীয় খাবার। pH মাপুন, প্রয়োজনে গুড় দিন। ট্যাংকের গন্ধ ও রঙ লক্ষ্য করুন।</td><td style="padding:11px 14px">সকালের রোদে ফ্লকের রঙ পরিষ্কার বোঝা যায় — বাদামি ভালো, সবুজ মানে শৈবাল, কালো মানে বিপদ।</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">বিকেল ৪টা</td><td style="padding:11px 14px">তৃতীয় খাবার। প্রতি দুই দিনে অ্যামোনিয়া, সপ্তাহে দুবার ফ্লক আয়তন।</td><td style="padding:11px 14px">দুপুরের গরমে মাছ কম খায়; বিকেলে খিদে ফেরে। পরীক্ষার সময় এটাই সবচেয়ে সুবিধাজনক।</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-red);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">রাত ৯টা</td><td style="padding:11px 14px">শেষ খাবার (শিংয়ের সবচেয়ে বড় ভাগ), বাতাস ও ব্লোয়ার পরীক্ষা, খাতা লেখা।</td><td style="padding:11px 14px">রাতের আগে বাতাস ঠিক আছে কি না নিশ্চিত হওয়া — ব্লোয়ার রাত ২টায় বন্ধ হলে কেউ জানবে না।</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">রাতের শেষ কাজটা বাদ দেবেন না</strong>
+              <span>বায়োফ্লকে যত মাছ মরেছে তার বেশিরভাগ মরেছে <strong style="color:var(--bp-head)">রাত ১২টা থেকে ভোর ৫টার মধ্যে</strong> — বিদ্যুৎ গিয়ে, পাইপ খুলে বা টিউব বন্ধ হয়ে। ঘুমাতে যাওয়ার আগে প্রতিটা ট্যাংকে হাত দিয়ে বাতাস আসছে কি না দেখা — এই দুই মিনিটই আপনার সবচেয়ে দামি অভ্যাস।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কত খাবার — শরীরের ওজনের হিসাব</h2>
+            </div>
+            <p style="margin:0 0 20px">খাবারের পরিমাণ মাছের সংখ্যা দিয়ে নয়, <strong style="color:var(--bp-head)">ট্যাংকের মোট মাছের ওজন</strong> দিয়ে ঠিক হয়। তাই প্রতি সপ্তাহে ৩০টা মাছ ধরে ওজন করে গড় বের করা জরুরি — এটাই এই অধ্যায়ের একমাত্র হিসাব যা বাদ দিলে বাকি সব ভুল হয়।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:620px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">মাছের গড় ওজন</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">দিনে খাবার</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কত বেলা</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">খাবারের মাপ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">১–৫ গ্রাম</td><td style="padding:11px 14px">৮–১০%</td><td style="padding:11px 14px">৪–৫ বেলা</td><td style="padding:11px 14px">গুঁড়া / ০.৩ মিমি</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">৫–২০ গ্রাম</td><td style="padding:11px 14px">৫–৭%</td><td style="padding:11px 14px">৪ বেলা</td><td style="padding:11px 14px">০.৮–১.২ মিমি</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">২০–৫০ গ্রাম</td><td style="padding:11px 14px">৪–৫%</td><td style="padding:11px 14px">৩ বেলা</td><td style="padding:11px 14px">১.৫–২ মিমি</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">৫০–১০০ গ্রাম</td><td style="padding:11px 14px">৩–৪%</td><td style="padding:11px 14px">৩ বেলা</td><td style="padding:11px 14px">২–৩ মিমি</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-red);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">১০০ গ্রামের বেশি</td><td style="padding:11px 14px">২–৩%</td><td style="padding:11px 14px">২ বেলা</td><td style="padding:11px 14px">৩–৪ মিমি</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-red);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">একটা পূর্ণ হিসাব — কাগজে</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span>২,৫০০ লিটারের ট্যাংকে ১,১০০টা কই, গড় ওজন ৪৫ গ্রাম। মোট ওজন = ১,১০০ × ৪৫ = <strong style="color:var(--bp-head)">৪৯.৫ কেজি</strong>।</span>
+                <span>৪৫ গ্রামে খাবার ৪.৫% → দিনে ৪৯.৫ × ০.০৪৫ = <strong style="color:var(--bp-head)">২.২৩ কেজি</strong>।</span>
+                <span>তিন বেলায় ভাগ = প্রতি বেলা <strong>৭৪০ গ্রাম</strong>। ওজন মেশিনে মেপে দিন, বাটি দিয়ে নয়।</span>
+                <span>প্রতি সপ্তাহে নতুন ওজন নিয়ে হিসাব আবার করুন — মাছ বাড়ছে, খাবারও বাড়বে।</span>
+              </div>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">শিং আলাদা — রাতের মাছ</strong><span style="font-size:.95em;color:var(--bp-muted2)">শিং নিশাচর, দিনে লুকিয়ে থাকে। উপরের হারের <strong>৬০% সন্ধ্যা ও রাতে</strong> দিন, বাকিটা দিনে। সারাদিন সমান ভাগে দিলে খাবার নষ্ট হয় আর অ্যামোনিয়া বাড়ে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">প্রোটিনের মাত্রা</strong><span style="font-size:.95em;color:var(--bp-muted2)">পোনার জন্য ৩২–৩৬%, বড় মাছের জন্য ২৮–৩০%। বায়োফ্লকে ফ্লক নিজেই প্রোটিন দেয়, তাই শেষ এক মাসে ২৮% খাবারেও ভালো বাড়ে — খরচ কেজিতে ৮–১০ টাকা কমে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">খাবারের বস্তা যেভাবে রাখবেন</strong><span style="font-size:.95em;color:var(--bp-muted2)">মাটি থেকে অন্তত ৬ ইঞ্চি উঁচু কাঠের পাটাতনে, শুকনো ঘরে, এক মাসের বেশি নয়। ভেজা বা পুরনো খাবারে ছত্রাক জন্মায় — সেটা খাওয়ালে মাছের লিভার নষ্ট হয়, আর কারণ কেউ ধরতে পারে না।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৩</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কীভাবে দেবেন — ছিটিয়ে নয়, দেখে</h2>
+            </div>
+            <p style="margin:0 0 20px">টেবিলের হিসাব শুরুর বিন্দু, চূড়ান্ত উত্তর নয়। আসল উত্তর মাছ দেয়। <strong style="color:var(--bp-head)">খাবার দেওয়ার সময় ট্যাংকের পাশে দাঁড়িয়ে থাকুন</strong> — পুরো পনেরো মিনিট। এই পনেরো মিনিটেই আপনি রোগ, চাপ আর অতিরিক্ত খাবার — তিনটাই আগে ধরতে পারবেন।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">অল্প অল্প করে, তিন ভাগে</strong><span style="font-size:.95em;color:var(--bp-muted2)">এক বেলার খাবার একবারে ফেলবেন না। এক-তৃতীয়াংশ দিন, শেষ হলে আবার। শেষ ভাগে আগ্রহ কমলে সেখানেই থামুন — বাকিটা তুলে রাখুন, ওই দিনের হিসাবে মাছ কম খেয়েছে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">পনেরো মিনিটের নিয়ম</strong><span style="font-size:.95em;color:var(--bp-muted2)">যা দিলেন তা <strong>১৫ মিনিটে</strong> শেষ হওয়া উচিত। ৫ মিনিটে শেষ হলে খাবার কম — পরের বেলা ১০% বাড়ান। ২০ মিনিট পরও ভাসছে মানে বেশি — সাথে সাথে জাল দিয়ে তুলে ফেলুন, আর পরের বেলা ২০% কমান।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ভাসমান খাবারই ভালো</strong><span style="font-size:.95em;color:var(--bp-muted2)">দাম কেজিতে ৫–৮ টাকা বেশি, কিন্তু চোখে দেখা যায় কতটা খাওয়া হলো — এই একটা সুবিধার দাম অনেক। ডুবন্ত খাবার দিলে একটা <strong>ফিডিং ট্রে</strong> (৩ ফুট × ৩ ফুট জাল) ব্যবহার করুন, তুলে দেখলেই বোঝা যায়।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">এক জায়গায় নয়, ছড়িয়ে</strong><span style="font-size:.95em;color:var(--bp-muted2)">এক কোণে সব খাবার দিলে বড় মাছ দখল নেয়, ছোটগুলো পিছিয়ে পড়ে আর মাপের ফারাক বাড়ে। ট্যাংকের চারপাশে ঘুরে ছড়িয়ে দিন — একই খরচে মাছের মাপ সমান থাকে, বিক্রিতে দাম ভালো পাওয়া যায়।</span></div>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-red);padding:24px 28px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">খাওয়ার সময় যা দেখবেন</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span><strong style="color:var(--bp-head)">ভালো:</strong> খাবার পড়ার সাথে সাথে ঝাঁপিয়ে পড়া, পানি ফুটতে থাকা, সব মাছ অংশ নেওয়া।</span>
+                <span><strong style="color:var(--bp-redtext)">সতর্কতা:</strong> আগ্রহ কম, কিছু মাছ কোণায় বা তলায় বসে থাকা, উপরে ভেসে মুখ তুলে শ্বাস নেওয়া (DO কম), গায়ে ঘষা দেওয়া (পরজীবী)।</span>
+                <span><strong style="color:var(--bp-redtext)">তৎক্ষণাৎ পরীক্ষা:</strong> একদিনে খাওয়া <strong>৩০% কমে গেলে</strong> খাবার বন্ধ করে DO, অ্যামোনিয়া ও নাইট্রাইট মাপুন। মাছ খাওয়া কমানো মানে ৯০% ক্ষেত্রে পানির কোনো সংখ্যা নড়ে গেছে।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৪</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কখন খাবার কমাবেন বা বন্ধ করবেন</h2>
+            </div>
+            <p style="margin:0 0 20px">নতুন খামারির স্বাভাবিক ভুল — সমস্যা দেখলে খাবার বাড়িয়ে দেওয়া, যাতে মাছ শক্তি পায়। বাস্তবে উল্টো: <strong style="color:var(--bp-head)">প্রতিটা সমস্যার প্রথম চিকিৎসা খাবার কমানো</strong>। খাবার কমলে অ্যামোনিয়া কমে, অক্সিজেনের চাহিদা কমে, আর ব্যাকটেরিয়া সময় পায়।</p>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:12px">সাত পরিস্থিতিতে খাবার কমান</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span><strong style="color:var(--bp-head)">১.</strong> DO ৪ mg/L-এর নিচে — <strong>খাবার বন্ধ</strong>, বাতাস বাড়ান।</span>
+                <span><strong style="color:var(--bp-head)">২.</strong> অ্যামোনিয়া ১ mg/L-এর বেশি — <strong>অর্ধেক</strong>, সাথে গুড়।</span>
+                <span><strong style="color:var(--bp-head)">৩.</strong> নাইট্রাইট ১ mg/L-এর বেশি — <strong>অর্ধেক</strong>, সাথে লবণ।</span>
+                <span><strong style="color:var(--bp-head)">৪.</strong> টানা মেঘলা বা বৃষ্টির দিন — <strong>২৫% কম</strong>; আলো কম মানে অক্সিজেন কম।</span>
+                <span><strong style="color:var(--bp-head)">৫.</strong> তাপমাত্রা ৩৪°-এর উপরে বা ২০°-এর নিচে — <strong>অর্ধেক বা বন্ধ</strong>; মাছ ঠিক হজম করতে পারে না।</span>
+                <span><strong style="color:var(--bp-head)">৬.</strong> পোনা ছাড়া বা স্থানান্তরের পর — <strong>প্রথম ২৪ ঘণ্টা কিছুই নয়</strong>, তারপর অর্ধেক থেকে শুরু।</span>
+                <span><strong style="color:var(--bp-head)">৭.</strong> হারভেস্টের আগের রাত — <strong>সম্পূর্ণ বন্ধ</strong>; পেট খালি থাকলে পরিবহনে মাছ মরে না।</span>
+              </div>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">দুই দিন না খেলে কিছু হয় না</strong><span style="font-size:.95em;color:var(--bp-muted2)">এটা মনে রাখলে অনেক ট্যাংক বাঁচে। সুস্থ মাছ দুই-তিন দিন না খেয়ে থাকতে পারে, ওজন সামান্য কমে — কিন্তু অ্যামোনিয়ার ধাক্কায় একবার ট্যাংক গেলে সব যায়। সন্দেহ হলে খাবার বন্ধ করাই সবচেয়ে সস্তা সিদ্ধান্ত।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">আবার শুরু করবেন ধীরে</strong><span style="font-size:.95em;color:var(--bp-muted2)">সংখ্যা ঠিক হয়ে গেলে পুরো হারে ফিরবেন না। প্রথম দিন ২৫%, দ্বিতীয় দিন ৫০%, তৃতীয় দিন ৭৫% — চতুর্থ দিনে পূর্ণ। হঠাৎ পূর্ণ খাবার দিলে অ্যামোনিয়া আবার লাফ দেয়, আর তখন কারণ খুঁজে পাওয়া যায় না।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৫</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">পানির সাতটা সংখ্যা</h2>
+            </div>
+            <p style="margin:0 0 20px">এই টেবিলটা ছাপিয়ে শেডের দেয়ালে টাঙিয়ে দিন। বায়োফ্লকের পুরো পানি-ব্যবস্থাপনা এই সাত সারিতে ধরা — <strong style="color:var(--bp-head)">লক্ষ্য কত, বিপদ কোথায়, আর তখন হাতে কী করবেন</strong>।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.92em;min-width:700px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কী মাপবেন</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">লক্ষ্য</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">বিপদ</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কত ঘন ঘন</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">বিপদে কী করবেন</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">অক্সিজেন (DO)</td><td style="padding:11px 14px">৫–৭ mg/L</td><td style="padding:11px 14px;color:var(--bp-redtext)">৪-এর নিচে</td><td style="padding:11px 14px">দিনে ২ বার</td><td style="padding:11px 14px">খাবার বন্ধ, বাতাস বাড়ান, দরকারে অক্সিজেন সিলিন্ডার</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">অ্যামোনিয়া (TAN)</td><td style="padding:11px 14px">০.৫-এর নিচে</td><td style="padding:11px 14px;color:var(--bp-redtext)">১-এর উপরে</td><td style="padding:11px 14px">২ দিনে ১ বার</td><td style="padding:11px 14px">খাবার অর্ধেক, গুড় দিন, বাতাস বাড়ান</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">নাইট্রাইট</td><td style="padding:11px 14px">০.৫-এর নিচে</td><td style="padding:11px 14px;color:var(--bp-redtext)">১-এর উপরে</td><td style="padding:11px 14px">সপ্তাহে ২ বার</td><td style="padding:11px 14px">লবণ ৫০০ গ্রাম/১,০০০ লিটার, খাবার অর্ধেক</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">pH</td><td style="padding:11px 14px">৭.০–৮.০</td><td style="padding:11px 14px;color:var(--bp-redtext)">৬.৫-র নিচে</td><td style="padding:11px 14px">দিনে ১ বার</td><td style="padding:11px 14px">নিচে নামলে চুন বা বেকিং সোডা, উপরে উঠলে গুড়</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ক্ষারত্ব</td><td style="padding:11px 14px">১০০–১৫০ mg/L</td><td style="padding:11px 14px;color:var(--bp-redtext)">৮০-র নিচে</td><td style="padding:11px 14px">সপ্তাহে ১ বার</td><td style="padding:11px 14px">বেকিং সোডা ১০০ গ্রাম/১,০০০ লিটার, তিন ভাগে</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">তাপমাত্রা</td><td style="padding:11px 14px">২৬–৩২° সে.</td><td style="padding:11px 14px;color:var(--bp-redtext)">৩৪-র উপরে</td><td style="padding:11px 14px">দিনে ২ বার</td><td style="padding:11px 14px">ছায়ার নেট, খাবার কমান; শীতে ট্যাংক ঢাকুন</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-red);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ফ্লক আয়তন</td><td style="padding:11px 14px">১০–২০ ml/L</td><td style="padding:11px 14px;color:var(--bp-redtext)">৩০-র উপরে</td><td style="padding:11px 14px">সপ্তাহে ২ বার</td><td style="padding:11px 14px">তলার ঘন পানি সরান, গুড় কমান</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">সংখ্যা লিখে না রাখলে সংখ্যা মাপার কোনো মূল্য নেই</strong><span style="font-size:.95em;color:var(--bp-muted2)">একদিনের সংখ্যা কিছু বলে না; সাত দিনের সংখ্যা সব বলে। অ্যামোনিয়া ০.৩ থেকে ০.৫, তারপর ০.৮ — খাতা থাকলে তৃতীয় দিনেই বোঝা যায় কী আসছে। খাতা না থাকলে জানা যায় পঞ্চম দিনে, মাছ ভেসে ওঠার পর।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">একবারে একটা জিনিস বদলান</strong><span style="font-size:.95em;color:var(--bp-muted2)">অ্যামোনিয়া বেড়েছে দেখে একসাথে গুড়, চুন, লবণ, প্রোবায়োটিক আর পানি বদল — সবই করলে কোনটা কাজ করল বোঝা যায় না, আর pH ধসে যেতে পারে। <strong>এক পদক্ষেপ, ছয় ঘণ্টা অপেক্ষা, আবার মাপা</strong>।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">পানি বদল শেষ উপায়</strong><span style="font-size:.95em;color:var(--bp-muted2)">বায়োফ্লকের যুক্তিই হলো পানি না বদলানো। কিন্তু অ্যামোনিয়া ২-এর উপরে গেলে তর্ক করার সময় নয় — <strong>২০–৩০% পানি বদলান</strong>, একই তাপমাত্রার জমানো পানি দিয়ে। ফ্লক আবার তৈরি হবে; মরা মাছ ফিরবে না।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৬</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ফ্লক ও কাদা ব্যবস্থাপনা</h2>
+            </div>
+            <p style="margin:0 0 20px">ফ্লক আপনার বন্ধু, কিন্তু বেশি ফ্লক শত্রু। ঘন হয়ে গেলে ফ্লক নিজেই অক্সিজেন খায়, মাছের কানকো আটকে দেয় আর রাতে DO ধসিয়ে দেয়। মাপার যন্ত্রটার নাম <strong style="color:var(--bp-head)">ইমহফ কোন</strong> — দাম ৮০০–১,৫০০ টাকা, আর এটাই এই অধ্যায়ের সবচেয়ে সস্তা বিনিয়োগ।</p>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-red);padding:24px 28px;margin-bottom:22px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">ফ্লক আয়তন মাপার নিয়ম</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span><strong style="color:var(--bp-head)">১.</strong> ট্যাংকের মাঝখান থেকে ১ লিটার পানি নিয়ে ইমহফ কোনে ঢালুন (কোন না থাকলে পরিষ্কার ১ লিটারের বোতল, দাগ দেওয়া)।</span>
+                <span><strong style="color:var(--bp-head)">২.</strong> <strong>৩০ মিনিট</strong> স্থির রাখুন। নিচে জমা কাদার স্তরই ফ্লক আয়তন।</span>
+                <span><strong style="color:var(--bp-head)">৩.</strong> ১০–২০ মিলিলিটার = আদর্শ। ৫-এর নিচে মানে ফ্লক দুর্বল, গুড় বাড়ান। ৩০-র উপরে মানে কাদা সরানোর সময়।</span>
+                <span><strong style="color:var(--bp-head)">৪.</strong> উপরের পানি হবে <strong>হালকা বাদামি ও স্বচ্ছ</strong>। ঘোলা বা সবুজ থাকলে ফ্লক নয়, শৈবাল জন্মেছে — ছায়া দিন।</span>
+              </div>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red)">
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">কাদা সরানোর সহজ পদ্ধতি</strong><span style="font-size:.95em;color:var(--bp-muted2)">সপ্তাহে দুই দিন, ব্লোয়ার <strong>২০ মিনিট বন্ধ</strong> রেখে সবচেয়ে ভারী কণা তলায় জমতে দিন। তারপর নিচের ভালভ দিয়ে ১০০–১৫০ লিটার বের করে দিন (২,৫০০ লিটারের ট্যাংকে)। সেই পানি সবজির বেডে বা সবজির বাগানে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-head);margin-bottom:4px">ট্যাংকের দেয়াল ঘষবেন সপ্তাহে একবার</strong><span style="font-size:.95em;color:var(--bp-muted2)">দেয়ালে পিচ্ছিল আস্তরণ জমে, সেটা ছত্রাক ও পরজীবীর ঘর। নরম ব্রাশ দিয়ে ঘষে দিন — ছেঁড়া কাপড় বা শক্ত ব্রাশ নয়, তেরপল কেটে যেতে পারে।</span></div>
+              <div style="background:var(--bp-card);padding:20px 22px"><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">এয়ার টিউব ও নানো টিউব</strong><span style="font-size:.95em;color:var(--bp-muted2)">নানো টিউবের ছিদ্র ধীরে ধীরে বন্ধ হয়। মাসে একবার খুলে <strong>লেবু-পানি বা হালকা অ্যাসিডে</strong> ভিজিয়ে ধুয়ে নিন। বাতাসের বুদবুদ ছোট হয়ে গেলে বা এক পাশে কম হলে এটাই কারণ — ব্লোয়ার দোষ নয়।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৭</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">গুড়ের দৈনিক হিসাব</h2>
+            </div>
+            <p style="margin:0 0 20px">অধ্যায় ০২-এ C:N অনুপাতের বিজ্ঞান পড়েছেন। প্রতিদিন কাজে লাগে তার দুটো সংখ্যা মাত্র — <strong style="color:var(--bp-head)">রুটিন মাত্রা</strong> আর <strong style="color:var(--bp-head)">অ্যামোনিয়া বাড়লে বাড়তি মাত্রা</strong>।</p>
+            <div style="overflow-x:auto;margin-bottom:22px">
+              <table style="width:100%;border-collapse:collapse;font-size:.93em;min-width:640px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">পরিস্থিতি</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">গুড়ের পরিমাণ</th>
+                    <th style="text-align:left;padding:12px 14px;font-weight:600">কীভাবে</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">রুটিন (সব ঠিক আছে)</td><td style="padding:11px 14px">দিনের খাবারের <strong>৫০%</strong></td><td style="padding:11px 14px">১ কেজি খাবারে ৫০০ গ্রাম গুড়, পানিতে গুলিয়ে সকালে</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">অ্যামোনিয়া ০.৫–১</td><td style="padding:11px 14px">রুটিন + <strong>১৫ গ্রাম</strong> প্রতি ১,০০০ লিটারে</td><td style="padding:11px 14px">তিন ভাগে, ছয় ঘণ্টা পরপর; সাথে খাবার ২৫% কম</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">অ্যামোনিয়া ১–২</td><td style="padding:11px 14px">রুটিন + <strong>৩০ গ্রাম</strong> প্রতি ১,০০০ লিটারে</td><td style="padding:11px 14px">খাবার অর্ধেক, বাতাস সর্বোচ্চ, ১২ ঘণ্টা পর আবার মাপুন</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-redtext)">অ্যামোনিয়া ২-র উপরে</td><td style="padding:11px 14px">গুড় + <strong>পানি বদল</strong></td><td style="padding:11px 14px">খাবার বন্ধ, ২০–৩০% পানি বদল, তারপর গুড়</td></tr>
+                  <tr style="border-bottom:2px solid var(--bp-red);background:var(--bp-soft)"><td style="padding:11px 14px;font-weight:600;color:var(--bp-head)">ফ্লক ৩০ ml/L-র উপরে</td><td style="padding:11px 14px">গুড় <strong>বন্ধ</strong> ২–৩ দিন</td><td style="padding:11px 14px">কাদা সরান; ফ্লক কমলে অর্ধেক মাত্রা থেকে ফিরুন</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">গুড় যত দিলেন, অক্সিজেনও তত লাগবে</strong>
+              <span>গুড় দিলে ব্যাকটেরিয়া বাড়ে, আর ব্যাকটেরিয়া অক্সিজেন খায়। তাই <strong style="color:var(--bp-head)">গুড় দেওয়ার আগে বাতাস বাড়াতে হবে, দেওয়ার পরে নয়</strong>। বেশি গুড় দিয়ে রাতে DO ধসে মাছ মরার ঘটনা বায়োফ্লকে খুব সাধারণ — আর সকালে সবাই ভাবে রোগ হয়েছে।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onred);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৮</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">সাপ্তাহিক ও মাসিক কাজ</h2>
+            </div>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-red);margin-bottom:22px">
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:10px">প্রতি সপ্তাহে</strong>
+                <div style="display:grid;gap:7px;font-size:.95em;color:var(--bp-muted2)">
+                  <span>· ৩০টা মাছ ধরে ওজন — গড় বের করে খাবারের হিসাব নতুন করা</span>
+                  <span>· কাদা সরানো দুই দিন, ফ্লক আয়তন মাপা দুই দিন</span>
+                  <span>· ক্ষারত্ব মাপা, প্রয়োজনে বেকিং সোডা</span>
+                  <span>· ট্যাংকের দেয়াল ব্রাশ, ভালভ ও পাইপের লিক দেখা</span>
+                  <span>· খাতা পর্যালোচনা — সপ্তাহের সংখ্যাগুলো পাশাপাশি দেখলে প্রবণতা ধরা পড়ে</span>
+                </div>
+              </div>
+              <div style="background:var(--bp-card);padding:22px 24px">
+                <strong style="display:block;color:var(--bp-head);margin-bottom:10px">প্রতি মাসে</strong>
+                <div style="display:grid;gap:7px;font-size:.95em;color:var(--bp-muted2)">
+                  <span>· নানো টিউব খুলে ধোয়া, এয়ার ফিল্টার পরিষ্কার</span>
+                  <span>· ব্লোয়ার পরীক্ষা — শব্দ, গরম হওয়া, বেয়ারিং</span>
+                  <span>· <strong style="color:var(--bp-redtext)">জেনারেটর চালিয়ে দেখা</strong> — মাসে একবার না চালালে দরকারের দিন স্টার্ট নেয় না</span>
+                  <span>· DO মিটার ক্যালিব্রেশন, কিটের মেয়াদ দেখা</span>
+                  <span>· FCR হিসাব — মোট খাবার ÷ মোট বৃদ্ধি; ১.৮-র উপরে গেলে কারণ খুঁজুন</span>
+                  <span>· স্টক গণনার আন্দাজ — মরা মাছের হিসাব বাদ দিয়ে কত আছে</span>
+                </div>
+              </div>
+            </div>
+            <div style="background:var(--bp-soft);border-top:3px solid var(--bp-red);padding:24px 28px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:10px">FCR — আপনার একমাত্র রিপোর্ট কার্ড</strong>
+              <div style="display:grid;gap:9px;font-size:.97em">
+                <span>মাসে যত কেজি খাবার দিলেন ÷ মাছ যত কেজি বাড়ল = FCR। <strong style="color:var(--bp-head)">১.৩–১.৫ ভালো, ১.৮-র উপরে সমস্যা</strong>।</span>
+                <span>FCR বাড়ার তিনটা কারণ: খাবার নষ্ট হচ্ছে (বেশি দিচ্ছেন), মাছ কম আছে (মরেছে অথচ হিসাবে আছে), বা পানির মান খারাপ (হজম হচ্ছে না)।</span>
+                <span>FCR ০.২ কমানো মানে বছরে খাবারের খরচ ১২–১৫% কম — অধ্যায় ১০-এর খামারে সেটা <strong>প্রায় ৬০,০০০ টাকা</strong>। কোনো নতুন যন্ত্র এত টাকা এনে দেয় না।</span>
+              </div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:8px">
+            <div data-block="1" style="background:var(--bp-deep);padding:32px 34px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:16px">এই অধ্যায়ে যা শিখলেন</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">দিনে চার বেলা কাজ — ভোরে DO, সকালে pH, বিকেলে অ্যামোনিয়া, রাতে বাতাস পরীক্ষা ও খাতা।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">খাবার মাছের সংখ্যায় নয়, মোট ওজনের শতকরা হিসাবে — সপ্তাহে ৩০টা মাছ ওজন করা জরুরি।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">পনেরো মিনিটের নিয়ম — এই সময়ে শেষ না হলে খাবার বেশি, পাঁচ মিনিটে শেষ হলে কম।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">প্রতিটা সমস্যার প্রথম চিকিৎসা খাবার কমানো — সুস্থ মাছ দুই-তিন দিন না খেয়ে থাকতে পারে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">সাতটা সংখ্যা — DO, অ্যামোনিয়া, নাইট্রাইট, pH, ক্ষারত্ব, তাপমাত্রা, ফ্লক আয়তন। টেবিলটা দেয়ালে টাঙান।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">একবারে একটা জিনিস বদলান, ছয় ঘণ্টা অপেক্ষা করুন, আবার মাপুন।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">ফ্লক ১০–২০ ml/L; ৩০ ছাড়ালে গুড় বন্ধ করে কাদা সরান — বেশি ফ্লক রাতে অক্সিজেন খেয়ে ফেলে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">গুড় দেওয়ার আগে বাতাস বাড়ান — পরে নয়।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">মাসে একবার FCR হিসাব — এটাই খামারির একমাত্র রিপোর্ট কার্ড, আর ০.২ কমালেই বছরে হাজার টাকার সঞ্চয়।</span></div>
+              </div>
+            </div>
+          </section>
+`,o=e(),s=`12-feeding-water`,c=`প্রজেক্টের অধ্যায়গুলো বলেছে কী বানাবেন। এই অধ্যায় বলবে প্রতিদিন সকাল থেকে রাত পর্যন্ত ঠিক কী করবেন — কত খাবার, কোন সংখ্যা মাপা, আর কোন সংখ্যা দেখলে হাত থেমে যাবে।`;function l(){let e=t(s),l=n(s);return(0,o.jsx)(i,{id:e.id,title:e.title,lead:c,partNum:l.num,partTitle:l.title,accent:l.accent,children:(0,o.jsx)(r,{html:a})})}export{l as default};

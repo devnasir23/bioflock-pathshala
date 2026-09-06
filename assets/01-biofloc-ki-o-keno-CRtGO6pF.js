@@ -1,0 +1,244 @@
+import{i as e,n as t,r as n}from"./index-Sfibn48Y.js";import{n as r,t as i}from"./ChapterShell-HFwY9Orh.js";var a=`<div data-block="1" style="background:var(--bp-soft);border-top:3px solid var(--bp-teal);padding:26px 30px 28px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-teal);margin-bottom:10px">এক লাইনে</div>
+            <p style="margin:0;font-size:1.1em;font-weight:600;color:var(--bp-head);line-height:1.75">বায়োফ্লক হচ্ছে এমন এক মাছ চাষ পদ্ধতি যেখানে পানি বারবার পরিবর্তন করতে হয় না — কারণ পানিতে থাকা উপকারী ব্যাকটেরিয়া মাছের বর্জ্য শোষণ করে নেয় এবং সেই ব্যাকটেরিয়াই আবার মাছের খাদ্যে রূপান্তরিত হয়।</p>
+          </div>
+
+          <div class="bf-viz1" style="background:var(--bp-soft);border-top:3px solid var(--bp-teal);padding:24px 26px 18px;margin-bottom:52px">
+            <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-teal);margin-bottom:8px">এক নজরে — বায়োফ্লক ট্যাংকের ভেতরে</div>
+            <style>
+              .bf-viz1 svg{width:100%;height:auto;display:block}
+              .bf-viz1 .tank{fill:var(--bp-card);stroke:var(--bp-teal);stroke-width:5}
+              .bf-viz1 .water{fill:var(--bp-teal);opacity:.09}
+              .bf-viz1 .surface{fill:none;stroke:var(--bp-teal);stroke-width:2;opacity:.4}
+              .bf-viz1 .sediment{fill:var(--bp-muted3);opacity:.14}
+              .bf-viz1 .bubble{fill:var(--bp-teal);opacity:.45}
+              .bf-viz1 .stone{fill:var(--bp-muted3)}
+              .bf-viz1 .fish{fill:var(--bp-teal)}
+              .bf-viz1 .eye{fill:var(--bp-card)}
+              .bf-viz1 .waste{fill:var(--bp-muted3)}
+              .bf-viz1 .floc{fill:var(--bp-amber);opacity:.9}
+              .bf-viz1 .lead{fill:none;stroke:var(--bp-muted3);stroke-width:1.5;opacity:.6}
+              .bf-viz1 .b1{fill:var(--bp-teal)}
+              .bf-viz1 .b2{fill:var(--bp-amber)}
+              .bf-viz1 .b3{fill:var(--bp-green)}
+              .bf-viz1 .bnum{fill:var(--bp-onaccent);font-size:12px;font-weight:700}
+              .bf-viz1 .tanklabel{fill:var(--bp-muted3);font-size:12px;font-weight:700;letter-spacing:.06em}
+              .bf-viz1 .legtxt{fill:var(--bp-text);font-size:13px}
+            </style>
+            <svg viewBox="0 0 720 400" role="img" aria-label="বায়োফ্লক ট্যাংকের ভেতরের ছবি — মাছ, বাতাসের বুদবুদ, ফ্লক কণা">
+              <rect class="tank" x="40" y="40" width="640" height="250" rx="18"></rect>
+              <rect class="water" x="48" y="96" width="624" height="186" rx="10"></rect>
+              <path class="surface" d="M48,98 q39,-12 78,0 t78,0 t78,0 t78,0 t78,0 t78,0 t78,0 t78,0"></path>
+              <rect class="sediment" x="48" y="266" width="624" height="16" rx="6"></rect>
+              <text class="tanklabel" x="360" y="70" text-anchor="middle">বায়োফ্লক ট্যাংক</text>
+
+              <rect class="stone" x="334" y="270" width="52" height="11" rx="5"></rect>
+              <g class="bubble">
+                <circle cx="354" cy="262" r="4"></circle><circle cx="351" cy="240" r="3"></circle><circle cx="356" cy="219" r="4.5"></circle><circle cx="352" cy="198" r="3"></circle><circle cx="355" cy="176" r="4"></circle><circle cx="353" cy="152" r="3"></circle><circle cx="356" cy="130" r="3.5"></circle><circle cx="354" cy="110" r="2.5"></circle>
+                <circle cx="374" cy="254" r="3"></circle><circle cx="376" cy="232" r="4"></circle><circle cx="373" cy="210" r="3"></circle><circle cx="375" cy="188" r="4"></circle><circle cx="374" cy="166" r="3"></circle><circle cx="376" cy="144" r="3.5"></circle><circle cx="374" cy="122" r="2.5"></circle>
+              </g>
+              <line class="lead" x1="392" y1="176" x2="378" y2="184"></line>
+              <text class="tanklabel" x="398" y="180" text-anchor="start">২৪ ঘণ্টা বাতাস (এয়ারেশন)</text>
+
+              <g transform="translate(150,150) scale(-1,1)">
+                <ellipse class="fish" rx="28" ry="16"></ellipse>
+                <path class="fish" d="M25,0 L46,-14 L46,14 Z"></path>
+                <path class="fish" d="M-6,-15 L12,-15 L0,-26 Z"></path>
+                <circle class="eye" cx="-12" cy="-4" r="3"></circle>
+              </g>
+              <g class="waste">
+                <circle cx="190" cy="150" r="4"></circle><circle cx="200" cy="144" r="3"></circle><circle cx="196" cy="159" r="3.5"></circle><circle cx="207" cy="151" r="3"></circle><circle cx="185" cy="161" r="2.5"></circle>
+              </g>
+
+              <path class="floc" transform="translate(252,202) scale(0.95)" d="M-10,-5 q-8,3 -3,11 q4,8 12,5 q10,3 12,-7 q2,-10 -8,-13 q-11,-5 -14,4 Z"></path>
+              <path class="floc" transform="translate(294,174) scale(1.05)" d="M-10,-5 q-8,3 -3,11 q4,8 12,5 q10,3 12,-7 q2,-10 -8,-13 q-11,-5 -14,4 Z"></path>
+              <path class="floc" transform="translate(276,234) scale(0.8)" d="M-10,-5 q-8,3 -3,11 q4,8 12,5 q10,3 12,-7 q2,-10 -8,-13 q-11,-5 -14,4 Z"></path>
+              <path class="floc" transform="translate(322,208) scale(1.1)" d="M-10,-5 q-8,3 -3,11 q4,8 12,5 q10,3 12,-7 q2,-10 -8,-13 q-11,-5 -14,4 Z"></path>
+              <path class="floc" transform="translate(300,146) scale(0.75)" d="M-10,-5 q-8,3 -3,11 q4,8 12,5 q10,3 12,-7 q2,-10 -8,-13 q-11,-5 -14,4 Z"></path>
+
+              <g transform="translate(544,214) scale(0.9)">
+                <ellipse class="fish" rx="28" ry="16"></ellipse>
+                <path class="fish" d="M25,0 L46,-14 L46,14 Z"></path>
+                <path class="fish" d="M-6,-15 L12,-15 L0,-26 Z"></path>
+                <circle class="eye" cx="-12" cy="-4" r="3"></circle>
+              </g>
+
+              <line class="lead" x1="226" y1="126" x2="196" y2="146"></line>
+              <circle class="b1" cx="226" cy="118" r="12"></circle>
+              <text class="bnum" x="226" y="122" text-anchor="middle">১</text>
+
+              <line class="lead" x1="392" y1="120" x2="322" y2="188"></line>
+              <circle class="b2" cx="400" cy="114" r="12"></circle>
+              <text class="bnum" x="400" y="118" text-anchor="middle">২</text>
+
+              <line class="lead" x1="556" y1="158" x2="522" y2="204"></line>
+              <circle class="b3" cx="562" cy="150" r="12"></circle>
+              <text class="bnum" x="562" y="154" text-anchor="middle">৩</text>
+
+              <circle class="b1" cx="54" cy="322" r="11"></circle>
+              <text class="bnum" x="54" y="326" text-anchor="middle">১</text>
+              <text class="legtxt" x="74" y="326">মাছ খায় — বর্জ্য থেকে অ্যামোনিয়া তৈরি হয়</text>
+
+              <circle class="b2" cx="54" cy="350" r="11"></circle>
+              <text class="bnum" x="54" y="354" text-anchor="middle">২</text>
+              <text class="legtxt" x="74" y="354">চিটাগুড় পেয়ে ব্যাকটেরিয়া তা খেয়ে ফ্লক বানায়</text>
+
+              <circle class="b3" cx="54" cy="378" r="11"></circle>
+              <text class="bnum" x="54" y="382" text-anchor="middle">৩</text>
+              <text class="legtxt" x="74" y="382">মাছ সারাদিন সেই ফ্লক খুঁটে খায়</text>
+            </svg>
+          </div>
+
+          <section style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">১</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">বায়োফ্লক আসলে কী</h2>
+            </div>
+            <p style="margin:0 0 18px">সাধারণ পুকুরে মাছ চাষ করলে মাছের মলমূত্র ও অব্যবহৃত খাবার পানিতে জমতে থাকে। এগুলো পচে তৈরি হয় <strong style="color:var(--bp-head)">অ্যামোনিয়া</strong> — একটি বিষাক্ত পদার্থ, যার পরিমাণ বেশি হলে মাছ মারা যায়। তাই পুকুরে বারবার পানি বদলাতে হয়।</p>
+            <p style="margin:0 0 18px">বায়োফ্লক পদ্ধতিতে পানি বদলানো হয় না। এর পরিবর্তে পানিতে দুটি উপাদান যোগ করা হয় — <strong style="color:var(--bp-head)">উপকারী ব্যাকটেরিয়া</strong> (প্রোবায়োটিক) এবং <strong style="color:var(--bp-head)">কার্বনের উৎস</strong> (সাধারণত চিটাগুড়/মোলাসেস)। এই দুটি উপাদান পেলে ব্যাকটেরিয়া দ্রুত বংশবৃদ্ধি করে এবং অ্যামোনিয়া গ্রহণ করে নিজেদের দেহকোষ গঠন করে।</p>
+            <p style="margin:0 0 18px">এই ব্যাকটেরিয়াগুলো পরস্পর জমাট বেঁধে পানিতে ছোট ছোট বাদামি কণা তৈরি করে, যাকে বলা হয় <strong style="color:var(--bp-head)">ফ্লক</strong> (floc)। ফ্লকে প্রচুর প্রোটিন থাকে, এবং মাছ সারাদিন এগুলো খুঁটে খুঁটে খায়।</p>
+            <p style="margin:0">অর্থাৎ যা ছিল বর্জ্য, তা-ই পরিণত হয় পুষ্টিকর খাবারে। এই কারণেই পানি পরিষ্কার থাকে এবং খাবারের খরচও অনেকটা কমে আসে।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">২</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">ট্যাংকের ভেতরে কী ঘটে — চারটি ধাপ</h2>
+            </div>
+            <p style="margin:0 0 24px">পুরো ব্যাপারটা একটা গোল চক্র। একবার চালু হয়ে গেলে এটা নিজে নিজেই ঘুরতে থাকে — আপনার কাজ শুধু চক্রটা ঠিকভাবে চালু রাখা।</p>
+            <div style="display:grid;gap:2px;background:var(--bp-line);border-top:3px solid var(--bp-teal)">
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">১</span>
+                <span><strong style="display:block;color:var(--bp-head);font-size:1.02em;margin-bottom:4px">মাছ খায়, ময়লা তৈরি হয়</strong><span style="font-size:.95em;color:var(--bp-muted2)">আপনি যে খাবার দেন তার একটা বড় অংশ মাছের শরীরে যায় না — মল হয়ে পানিতে মেশে এবং অ্যামোনিয়ায় পরিণত হয়।</span></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">২</span>
+                <span><strong style="display:block;color:var(--bp-head);font-size:1.02em;margin-bottom:4px">আপনি চিটাগুড় দেন</strong><span style="font-size:.95em;color:var(--bp-muted2)">চিটাগুড় হলো ব্যাকটেরিয়ার খাবার (কার্বন)। এটা ছাড়া ব্যাকটেরিয়া অ্যামোনিয়া খেতে পারে না। এটাই পুরো পদ্ধতির চাবিকাঠি।</span></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-teal);color:var(--bp-teal);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">৩</span>
+                <span><strong style="display:block;color:var(--bp-head);font-size:1.02em;margin-bottom:4px">ব্যাকটেরিয়া বাড়ে, ফ্লক তৈরি হয়</strong><span style="font-size:.95em;color:var(--bp-muted2)">ব্যাকটেরিয়া অ্যামোনিয়া + কার্বন খেয়ে বংশবৃদ্ধি করে এবং জমাট বেঁধে বাদামি কণা তৈরি করে। পানি বিষমুক্ত হয়ে যায়।</span></span>
+              </div>
+              <div style="display:flex;gap:18px;background:var(--bp-card);padding:20px 22px;align-items:flex-start">
+                <span style="flex:none;width:32px;height:32px;border:2px solid var(--bp-amber);color:var(--bp-amber);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center">৪</span>
+                <span><strong style="display:block;color:var(--bp-head);font-size:1.02em;margin-bottom:4px">মাছ ফ্লক খায়</strong><span style="font-size:.95em;color:var(--bp-muted2)">মাছ সারাদিন এই প্রোটিন-সমৃদ্ধ ফ্লক খুঁটে খায়। ফলে বাইরের খাবার কম লাগে — এবং চক্রটা আবার ১ নম্বর ধাপে ফিরে যায়।</span></span>
+              </div>
+            </div>
+            <p style="margin:22px 0 0;font-size:.94em;color:var(--bp-muted)">এই চক্রটা চলতে হলে পানিতে ২৪ ঘণ্টা বাতাস দিতে হবে (এয়ারেশন)। বাতাস বন্ধ হলে ফ্লক তলায় জমে যায়, পচে যায়, আর অক্সিজেন শেষ হয়ে মাছ মারা যেতে পারে।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৩</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">C:N অনুপাত — একটাই সংখ্যা মনে রাখলেই চলবে</h2>
+            </div>
+            <p style="margin:0 0 18px">C:N মানে কার্বন ও নাইট্রোজেনের অনুপাত। সহজভাবে — ট্যাংকে কতটা অ্যামোনিয়া আছে, তার তুলনায় কতটা চিটাগুড় দিতে হবে।</p>
+            <div style="background:var(--bp-deep);color:#ffffff;padding:28px 30px;text-align:center;margin:0 0 20px">
+              <div style="font-size:2.6em;font-weight:700;color:var(--bp-amberlt);line-height:1.2">১৫ : ১</div>
+              <div style="font-size:.95em;color:var(--bp-ondeep);margin-top:8px;line-height:1.7">১ গ্রাম অ্যামোনিয়া-নাইট্রোজেন প্রসেস করতে প্রায় ১৫ গ্রাম কার্বন লাগে</div>
+            </div>
+            <p style="margin:0 0 18px">গবেষণায় ১০:১ থেকে ২০:১ পর্যন্ত কাজ করে, তবে বেশিরভাগ চাষি ১৫:১ ধরে হিসাব করেন। বাস্তবে হিসাবটা আরও সহজ করে নেওয়া হয়:</p>
+            <div style="border-left:none;border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">হাতের নিয়ম</strong>
+              <span>প্রতি ১ কেজি খাবারের (৩৫% প্রোটিন) জন্য প্রায় <strong style="color:var(--bp-head)">০.৫–০.৬ কেজি চিটাগুড়</strong> দিন। খাবার বাড়লে চিটাগুড়ও বাড়বে।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৪</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">কেন মানুষ বায়োফ্লকে আগ্রহী</h2>
+            </div>
+            <div style="display:grid;gap:16px">
+              <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;color:var(--bp-green);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">অল্প জায়গায় অনেক মাছ।</strong> পুকুর লাগে না। বাড়ির উঠান বা ছাদেও ট্যাংক বসানো যায়।</span></div>
+              <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;color:var(--bp-green);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">পানি খুব কম লাগে।</strong> পুরো চক্রে মাত্র ১০–১৫% পানি বদলাতে হয়।</span></div>
+              <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;color:var(--bp-green);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">খাবারের খরচ কমে।</strong> মাছ চাষে মোট খরচের প্রায় ৬০% যায় খাবারে। নথিভুক্ত উদাহরণে তেলাপিয়ায় বাইরের খাবার প্রায় ২০% এবং ভেনামি চিংড়িতে প্রায় ২৯% কম লেগেছে।</span></div>
+              <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;color:var(--bp-green);font-weight:700;font-size:1.1em">✓</span><span><strong style="color:var(--bp-head)">চোখের সামনে থাকে।</strong> মাছ দেখা যায়, গোনা যায়, রোগ ধরা পড়ে দ্রুত। চুরির ঝুঁকিও কম।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-red);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৫</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">যেসব ঝুঁকি আগেই জানা দরকার</h2>
+            </div>
+            <p style="margin:0 0 20px">এই বইয়ে ঝুঁকি লুকানো হবে না। বায়োফ্লক সবার জন্য নয় — নিচের তিনটা কথা ভালো করে বুঝে নিন।</p>
+            <div style="border-top:3px solid var(--bp-red);background:var(--bp-redbg);padding:24px 28px;display:grid;gap:18px">
+              <div><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">২৪ ঘণ্টা বিদ্যুৎ লাগবে</strong><span style="font-size:.96em">বাতাস বন্ধ মানে মাছ মারা যাওয়া শুরু। সিলেটের একটি সমীক্ষায় ১০০% বায়োফ্লক চাষি বিদ্যুৎ বিভ্রাটকে সবচেয়ে বড় সমস্যা বলেছেন, এবং ৭৭.৭৮% চাষি এ কারণে পদ্ধতিটিকে "টেকসই নয়" মনে করেন। ব্যাকআপ ছাড়া শুরু করবেন না।</span></div>
+              <div><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">শেখার সময় লাগবে</strong><span style="font-size:.96em">পানি মাপা, চিটাগুড়ের হিসাব, ফ্লক দেখা — এগুলো অভ্যাস হতে কয়েক মাস লাগে। প্রথম চক্রে অনেকেই লোকসান করেন; এটাই স্বাভাবিক।</span></div>
+              <div><strong style="display:block;color:var(--bp-redtext);margin-bottom:4px">ভুল হলে দ্রুত ক্ষতি হয়</strong><span style="font-size:.96em">পুকুরে একটা ভুলের ফল বুঝতে কয়েক দিন লাগে। বায়োফ্লকে কয়েক ঘণ্টায় পুরো ট্যাংক শেষ হয়ে যেতে পারে। তাই ছোট ট্যাংক দিয়ে শেখা শুরু করাই বুদ্ধিমানের কাজ।</span></div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৬</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">এই বইয়ে কই মাছ কেন</h2>
+            </div>
+            <p style="margin:0 0 18px">বাংলাদেশে বায়োফ্লকে সবচেয়ে বেশি চাষ হয় থাই/ভিয়েতনাম কই (Anabas testudineus)। কারণ কই কম অক্সিজেনেও টিকে থাকতে পারে, দ্রুত বাড়ে, আর বাজারে চাহিদা ভালো।</p>
+            <p style="margin:0 0 20px">গবেষণায় দেখা গেছে থাই কই ধরার সময় গড়ে ৬৯.২৫ গ্রাম হয়, যেখানে দেশি কই মাত্র ৩৩.৩৮ গ্রাম। বেঁচে থাকার হারও থাই কইয়ে বেশি — ৯৩.৬০%, দেশি কইয়ে ৮৩.০৬%।</p>
+            <div style="border-top:3px solid var(--bp-amber);background:var(--bp-amberbg);padding:22px 26px">
+              <strong style="display:block;color:var(--bp-head);margin-bottom:6px">ভুল করবেন না</strong>
+              <span>ইন্টারনেটে "কই ফিশ" লিখে খুঁজলে জাপানি রঙিন <em>কই কার্প</em> আসে — ওটা শখের অ্যাকোয়ারিয়ামের সৌখিন মাছ, খাওয়ার জন্য নয়। আমরা যে কই চাষ করি সেটা সম্পূর্ণ আলাদা মাছ।</span>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৭</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">এক নজরে সঠিক পানির মান</h2>
+            </div>
+            <p style="margin:0 0 20px">এই সংখ্যাগুলো পুরো বইয়ে বারবার আসবে। এখনই মুখস্থ করার দরকার নেই — ট্যাংকের পাশে লিখে রাখলেই হবে।</p>
+            <div style="overflow-x:auto">
+              <table style="width:100%;border-collapse:collapse;font-size:.96em;min-width:420px">
+                <thead>
+                  <tr style="background:var(--bp-deep);color:#ffffff">
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">কী মাপবেন</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">সঠিক মান</th>
+                    <th style="text-align:left;padding:12px 16px;font-weight:600">কেন গুরুত্বপূর্ণ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">তাপমাত্রা</td><td style="padding:12px 16px">২৫–৩০ °C</td><td style="padding:12px 16px;color:var(--bp-muted2)">এর বাইরে গেলে মাছ খাওয়া কমিয়ে দেয়</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">pH</td><td style="padding:12px 16px">৭ – ৮</td><td style="padding:12px 16px;color:var(--bp-muted2)">কমে গেলে কৃষি চুন দিতে হয়</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">অক্সিজেন (DO)</td><td style="padding:12px 16px">৫–৮ ppm</td><td style="padding:12px 16px;color:var(--bp-muted2)">কমলে মাছ উপরে ভেসে হাঁপায়</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">অ্যামোনিয়া</td><td style="padding:12px 16px">০.৫ ppm-এর নিচে</td><td style="padding:12px 16px;color:var(--bp-muted2)">বাড়লে সাথে সাথে চিটাগুড় দিন</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">নাইট্রাইট</td><td style="padding:12px 16px">প্রায় ০</td><td style="padding:12px 16px;color:var(--bp-muted2)">চক্র ঠিকমতো চলছে কি না তার প্রমাণ</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line);background:var(--bp-soft)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">TDS</td><td style="padding:12px 16px">৮০০–১২০০ ppm</td><td style="padding:12px 16px;color:var(--bp-muted2)">পানিতে মিশে থাকা পদার্থের পরিমাণ</td></tr>
+                  <tr style="border-bottom:1px solid var(--bp-line)"><td style="padding:12px 16px;font-weight:600;color:var(--bp-head)">ফ্লক ভলিউম</td><td style="padding:12px 16px">১৫–৩০ মিলি/লিটার</td><td style="padding:12px 16px;color:var(--bp-muted2)">Imhoff cone দিয়ে মাপা হয়</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p style="margin:18px 0 0;font-size:.92em;color:var(--bp-muted)">স্টকিং ডেনসিটি: গবেষণায় প্রতি ১,০০০ লিটারে ২০০টি কই সবচেয়ে ভালো ফল দিয়েছে (গড় ওজন ১২১.৬৪ গ্রাম, FCR ০.৯৭, বেঁচে থাকার হার ৮৬.৬৬%)। ঘনত্ব ২৫০-এ নামলে হার ৮০.৭১%, ৩০০-এ ৭৪.৮১% — অর্থাৎ বেশি মাছ মানেই বেশি লাভ নয়। ৫০০ লিটারে নতুনদের জন্য ১০০–১৫০টি কই আদর্শ।</p>
+          </section>
+
+          <section data-block="1" style="margin-bottom:52px">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:18px">
+              <span style="width:26px;height:26px;flex:none;background:var(--bp-teal);color:var(--bp-onaccent);font-size:12.5px;font-weight:700;display:flex;align-items:center;justify-content:center">৮</span>
+              <h2 style="font-size:1.35em;font-weight:700;color:var(--bp-head);margin:0;line-height:1.5">নতুন শব্দগুলো</h2>
+            </div>
+            <div style="display:grid;gap:1px;background:var(--bp-line);border-top:3px solid var(--bp-teal)">
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">ফ্লক (Floc)</strong> — পানিতে ভাসা বাদামি ছোট কণা; আসলে জমাট বাঁধা ব্যাকটেরিয়া। মাছের বাড়তি খাবার।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">অ্যামোনিয়া</strong> — মাছের মল থেকে তৈরি বিষাক্ত পদার্থ। বেশি হলে মাছ মারা যায়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">চিটাগুড় (মোলাসেস)</strong> — চিনিকলের ঘন কালো তরল। ব্যাকটেরিয়ার খাবার হিসেবে ব্যবহার হয়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">প্রোবায়োটিক</strong> — বোতলে/প্যাকেটে বিক্রি হওয়া উপকারী ব্যাকটেরিয়া। শুরুতে পানিতে দিতে হয়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">Aeration (বাতাস দেওয়া)</strong> — এয়ার পাম্প দিয়ে পানিতে বাতাস ঢোকানো। ২৪ ঘণ্টা চালু রাখতে হয়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">DO</strong> — Dissolved Oxygen, পানিতে মিশে থাকা অক্সিজেন। মাছ এটাই শ্বাসে নেয়।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">FCR</strong> — Feed Conversion Ratio। ১ কেজি মাছ বাড়াতে কত কেজি খাবার লাগল। কম মানে ভালো।</div>
+              <div style="background:var(--bp-card);padding:16px 20px"><strong style="color:var(--bp-head)">Cycling</strong> — মাছ ছাড়ার আগে ১০–১৫ দিন ধরে পানিতে ব্যাকটেরিয়া তৈরি করা। অধ্যায় ০৬-এ বিস্তারিত।</div>
+            </div>
+          </section>
+
+          <section data-block="1" style="margin-bottom:8px">
+            <div data-block="1" style="background:var(--bp-deep);padding:32px 34px">
+              <div style="font-size:11.5px;font-weight:700;letter-spacing:.12em;color:var(--bp-amberlt);margin-bottom:16px">এই অধ্যায়ে যা শিখলেন</div>
+              <div style="display:grid;gap:12px">
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">বায়োফ্লক মানে ময়লাকে খাবারে বদলে ফেলা — ব্যাকটেরিয়া এই কাজটা করে।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">চিটাগুড় (কার্বন) না দিলে চক্র চলবে না। মনে রাখার সংখ্যা: C:N = ১৫:১।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">২৪ ঘণ্টা বাতাস ও বিদ্যুৎ বাধ্যতামূলক — ব্যাকআপ ছাড়া শুরু করবেন না।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">বেশি মাছ ছাড়লেই বেশি লাভ নয় — কম ঘনত্বে বেঁচে থাকার হার বেশি।</span></div>
+                <div style="display:flex;gap:12px;align-items:flex-start"><span style="flex:none;color:var(--bp-amberlt);font-weight:700">→</span><span style="color:var(--bp-ondeep);font-size:.98em">ছোট ট্যাংক দিয়ে শেখা শুরু করুন। প্রথম চক্রে লাভ না হওয়াটাই স্বাভাবিক।</span></div>
+              </div>
+            </div>
+          </section>
+`,o=e(),s=`01-biofloc-ki-o-keno`,c=`বিজ্ঞানের একটি ছোট বিপ্লব — একেবারে শুরু থেকে বোঝা। এই অধ্যায় পড়া শেষে আপনি জানতে পারবেন বায়োফ্লক আসলে কী, ট্যাংকের ভেতরে কী ঘটে, এবং এটি আপনার জন্য উপযুক্ত কি না।`;function l(){let e=t(s),l=n(s);return(0,o.jsx)(i,{id:e.id,title:e.title,lead:c,partNum:l.num,partTitle:l.title,accent:l.accent,children:(0,o.jsx)(r,{html:a})})}export{l as default};
